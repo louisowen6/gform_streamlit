@@ -1,0 +1,1935 @@
+is_tested,gender,age,wage,region,date,type
+No,Male,18-34,IDR 10-25 million,East Jakarta,2019-01-05,rapid
+No,Male,18-34,more than IDR 25 million,North Jakarta,2019-01-05,rapid
+No,Male,50+,less than IDR 3 million,Central Jakarta,2019-01-05,rapid
+No,Male,31-50,IDR 10-25 million,West Jakarta,2019-01-05,rapid
+No,Female,31-50,IDR 10-25 million,West Jakarta,2019-01-05,rapid
+Yes,Female,31-50,less than IDR 3 million,South Jakarta,2019-01-05,rapid
+No,Male,50+,IDR 3-5 million,South Jakarta,2019-01-05,rapid
+No,Female,50+,more than IDR 25 million,East Jakarta,2019-01-05,rapid
+No,Female,18-34,IDR 5-10 million,West Jakarta,2019-01-05,rapid
+No,Female,31-50,IDR 3-5 million,South Jakarta,2019-01-05,rapid
+No,Female,18-34,IDR 10-25 million,South Jakarta,2019-01-05,rapid
+No,Female,18-34,IDR 10-25 million,West Jakarta,2019-01-05,rapid
+Yes,Male,18-34,less than IDR 3 million,Central Jakarta,2019-01-05,rapid
+No,Female,18-34,less than IDR 3 million,West Jakarta,2019-01-05,rapid
+No,Female,31-50,more than IDR 25 million,South Jakarta,2019-01-06,rapid
+No,Male,18-34,less than IDR 3 million,West Jakarta,2019-01-06,rapid
+Yes,Female,31-50,less than IDR 3 million,Central Jakarta,2019-01-06,rapid
+No,Male,50+,IDR 3-5 million,South Jakarta,2019-01-06,rapid
+Yes,Male,18-34,IDR 5-10 million,Central Jakarta,2019-01-06,rapid
+No,Male,18-34,IDR 3-5 million,South Jakarta,2019-01-06,rapid
+Yes,Female,18-34,IDR 10-25 million,East Jakarta,2019-01-06,rapid
+Yes,Female,50+,IDR 3-5 million,West Jakarta,2019-01-06,rapid
+No,Female,31-50,IDR 5-10 million,West Jakarta,2019-01-06,rapid
+Yes,Male,50+,more than IDR 25 million,North Jakarta,2019-01-06,rapid
+No,Male,18-34,IDR 10-25 million,North Jakarta,2019-01-06,rapid
+No,Female,18-34,IDR 3-5 million,South Jakarta,2019-01-06,rapid
+Yes,Female,18-34,IDR 10-25 million,Central Jakarta,2019-01-06,rapid
+No,Male,50+,IDR 5-10 million,West Jakarta,2019-02-05,rapid
+No,Female,31-50,more than IDR 25 million,West Jakarta,2019-02-05,rapid
+No,Male,18-34,more than IDR 25 million,East Jakarta,2019-02-05,rapid
+Yes,Female,50+,less than IDR 3 million,West Jakarta,2019-02-05,rapid
+No,Male,18-34,IDR 3-5 million,South Jakarta,2019-02-05,rapid
+No,Male,18-34,less than IDR 3 million,West Jakarta,2019-02-05,rapid
+Yes,Female,31-50,IDR 3-5 million,West Jakarta,2019-02-05,rapid
+No,Female,18-34,IDR 5-10 million,West Jakarta,2019-02-05,rapid
+No,Male,50+,less than IDR 3 million,North Jakarta,2019-02-05,rapid
+Yes,Male,50+,less than IDR 3 million,South Jakarta,2019-02-05,rapid
+No,Male,18-34,IDR 10-25 million,West Jakarta,2019-02-05,rapid
+Yes,Male,31-50,more than IDR 25 million,South Jakarta,2019-02-05,rapid
+Yes,Male,18-34,IDR 5-10 million,West Jakarta,2019-02-05,rapid
+Yes,Male,18-34,IDR 3-5 million,North Jakarta,2019-02-05,rapid
+Yes,Female,50+,less than IDR 3 million,East Jakarta,2019-02-05,rapid
+No,Male,18-34,less than IDR 3 million,South Jakarta,2019-02-05,rapid
+No,Female,18-34,less than IDR 3 million,Central Jakarta,2019-02-05,rapid
+Yes,Male,18-34,more than IDR 25 million,Central Jakarta,2019-02-05,rapid
+Yes,Male,18-34,IDR 5-10 million,Central Jakarta,2019-02-05,rapid
+No,Female,18-34,more than IDR 25 million,Central Jakarta,2019-02-05,rapid
+Yes,Female,18-34,less than IDR 3 million,North Jakarta,2019-02-05,rapid
+Yes,Male,50+,IDR 10-25 million,South Jakarta,2019-02-05,rapid
+Yes,Male,50+,less than IDR 3 million,Central Jakarta,2019-02-05,rapid
+Yes,Male,18-34,less than IDR 3 million,West Jakarta,2019-02-05,rapid
+No,Male,31-50,less than IDR 3 million,East Jakarta,2019-02-06,rapid
+No,Male,18-34,IDR 10-25 million,East Jakarta,2019-02-06,rapid
+Yes,Male,50+,IDR 10-25 million,East Jakarta,2019-02-06,rapid
+Yes,Female,18-34,IDR 3-5 million,Central Jakarta,2019-02-06,rapid
+Yes,Male,18-34,IDR 3-5 million,West Jakarta,2019-02-06,rapid
+Yes,Female,18-34,less than IDR 3 million,South Jakarta,2019-02-06,rapid
+Yes,Female,50+,IDR 3-5 million,East Jakarta,2019-02-06,rapid
+No,Female,50+,less than IDR 3 million,South Jakarta,2019-02-06,rapid
+Yes,Male,50+,IDR 3-5 million,Central Jakarta,2019-02-06,rapid
+Yes,Male,31-50,IDR 10-25 million,South Jakarta,2019-03-05,rapid
+Yes,Female,18-34,IDR 10-25 million,East Jakarta,2019-03-05,rapid
+Yes,Male,18-34,IDR 3-5 million,West Jakarta,2019-03-05,rapid
+Yes,Female,50+,IDR 10-25 million,North Jakarta,2019-03-05,rapid
+No,Female,18-34,IDR 10-25 million,East Jakarta,2019-03-05,rapid
+No,Female,18-34,IDR 3-5 million,North Jakarta,2019-03-05,rapid
+No,Female,50+,IDR 10-25 million,East Jakarta,2019-03-05,rapid
+No,Female,31-50,IDR 10-25 million,North Jakarta,2019-03-05,rapid
+No,Male,50+,IDR 3-5 million,West Jakarta,2019-03-05,rapid
+No,Female,18-34,more than IDR 25 million,North Jakarta,2019-03-05,rapid
+Yes,Female,50+,IDR 5-10 million,East Jakarta,2019-03-05,rapid
+No,Male,18-34,less than IDR 3 million,South Jakarta,2019-03-05,rapid
+No,Male,31-50,less than IDR 3 million,Central Jakarta,2019-03-05,rapid
+No,Female,18-34,IDR 5-10 million,East Jakarta,2019-03-05,rapid
+No,Female,18-34,more than IDR 25 million,West Jakarta,2019-03-05,rapid
+No,Male,31-50,more than IDR 25 million,North Jakarta,2019-03-06,rapid
+Yes,Female,50+,IDR 3-5 million,East Jakarta,2019-03-06,rapid
+No,Male,31-50,more than IDR 25 million,East Jakarta,2019-03-06,rapid
+Yes,Male,50+,IDR 3-5 million,North Jakarta,2019-03-06,rapid
+No,Female,50+,less than IDR 3 million,East Jakarta,2019-03-06,rapid
+Yes,Female,18-34,IDR 5-10 million,East Jakarta,2019-03-06,rapid
+Yes,Male,18-34,more than IDR 25 million,Central Jakarta,2019-03-06,rapid
+No,Female,31-50,IDR 3-5 million,West Jakarta,2019-03-06,rapid
+No,Female,18-34,less than IDR 3 million,South Jakarta,2019-03-06,rapid
+Yes,Male,18-34,IDR 5-10 million,South Jakarta,2019-03-06,rapid
+Yes,Female,18-34,more than IDR 25 million,West Jakarta,2019-03-06,rapid
+Yes,Male,31-50,more than IDR 25 million,Central Jakarta,2019-03-06,rapid
+No,Female,18-34,less than IDR 3 million,West Jakarta,2019-03-06,rapid
+Yes,Male,50+,IDR 10-25 million,South Jakarta,2019-03-06,rapid
+No,Male,18-34,more than IDR 25 million,East Jakarta,2019-03-06,rapid
+No,Female,18-34,less than IDR 3 million,North Jakarta,2019-03-06,rapid
+Yes,Female,50+,IDR 5-10 million,Central Jakarta,2019-03-06,rapid
+No,Female,31-50,less than IDR 3 million,South Jakarta,2019-03-06,rapid
+Yes,Male,31-50,more than IDR 25 million,West Jakarta,2019-04-05,rapid
+Yes,Female,18-34,more than IDR 25 million,West Jakarta,2019-04-05,rapid
+Yes,Female,18-34,more than IDR 25 million,Central Jakarta,2019-04-05,rapid
+Yes,Female,18-34,IDR 3-5 million,South Jakarta,2019-04-05,rapid
+No,Female,18-34,IDR 10-25 million,Central Jakarta,2019-04-05,rapid
+No,Male,18-34,IDR 3-5 million,West Jakarta,2019-04-05,rapid
+Yes,Male,50+,more than IDR 25 million,East Jakarta,2019-04-05,rapid
+No,Female,50+,IDR 3-5 million,North Jakarta,2019-04-05,rapid
+Yes,Male,31-50,IDR 3-5 million,East Jakarta,2019-04-05,rapid
+No,Female,50+,IDR 5-10 million,East Jakarta,2019-04-05,rapid
+No,Female,31-50,IDR 5-10 million,West Jakarta,2019-04-05,rapid
+Yes,Female,31-50,IDR 10-25 million,South Jakarta,2019-04-05,rapid
+Yes,Female,31-50,more than IDR 25 million,West Jakarta,2019-04-05,rapid
+Yes,Female,50+,more than IDR 25 million,East Jakarta,2019-04-05,rapid
+No,Male,31-50,IDR 5-10 million,North Jakarta,2019-04-05,rapid
+No,Male,50+,IDR 3-5 million,West Jakarta,2019-04-05,rapid
+No,Male,18-34,less than IDR 3 million,North Jakarta,2019-04-05,rapid
+No,Male,18-34,IDR 3-5 million,South Jakarta,2019-04-06,rapid
+Yes,Male,31-50,more than IDR 25 million,North Jakarta,2019-04-06,rapid
+Yes,Female,31-50,IDR 10-25 million,South Jakarta,2019-04-06,rapid
+Yes,Female,18-34,more than IDR 25 million,South Jakarta,2019-04-06,rapid
+Yes,Female,31-50,less than IDR 3 million,Central Jakarta,2019-04-06,rapid
+Yes,Male,50+,IDR 3-5 million,Central Jakarta,2019-04-06,rapid
+No,Male,31-50,more than IDR 25 million,Central Jakarta,2019-04-06,rapid
+No,Female,18-34,IDR 5-10 million,East Jakarta,2019-04-06,rapid
+No,Female,50+,IDR 5-10 million,South Jakarta,2019-04-06,rapid
+No,Female,31-50,IDR 3-5 million,South Jakarta,2019-04-06,rapid
+Yes,Female,18-34,IDR 3-5 million,North Jakarta,2019-04-06,rapid
+No,Female,31-50,IDR 10-25 million,East Jakarta,2019-04-06,rapid
+Yes,Male,18-34,IDR 10-25 million,South Jakarta,2019-04-06,rapid
+Yes,Male,18-34,less than IDR 3 million,West Jakarta,2019-04-06,rapid
+No,Male,50+,less than IDR 3 million,Central Jakarta,2019-04-06,rapid
+No,Female,18-34,IDR 10-25 million,East Jakarta,2019-04-06,rapid
+No,Female,50+,IDR 10-25 million,Central Jakarta,2019-04-06,rapid
+No,Male,31-50,less than IDR 3 million,North Jakarta,2019-04-06,rapid
+Yes,Female,31-50,more than IDR 25 million,East Jakarta,2019-04-06,rapid
+Yes,Female,50+,IDR 5-10 million,East Jakarta,2019-04-06,rapid
+No,Female,18-34,more than IDR 25 million,West Jakarta,2019-04-06,rapid
+No,Male,50+,IDR 10-25 million,East Jakarta,2019-04-06,rapid
+No,Female,50+,IDR 10-25 million,East Jakarta,2019-04-06,rapid
+Yes,Male,31-50,IDR 3-5 million,East Jakarta,2019-04-06,rapid
+No,Male,31-50,IDR 5-10 million,Central Jakarta,2019-04-06,rapid
+Yes,Male,18-34,less than IDR 3 million,East Jakarta,2019-04-06,rapid
+Yes,Male,18-34,IDR 5-10 million,West Jakarta,2019-04-06,rapid
+Yes,Male,31-50,IDR 5-10 million,Central Jakarta,2019-04-06,rapid
+Yes,Male,18-34,IDR 5-10 million,North Jakarta,2019-04-06,rapid
+Yes,Male,18-34,less than IDR 3 million,South Jakarta,2019-05-05,rapid
+Yes,Male,18-34,more than IDR 25 million,Central Jakarta,2019-05-05,rapid
+No,Male,18-34,IDR 3-5 million,North Jakarta,2019-05-05,rapid
+No,Male,18-34,IDR 10-25 million,North Jakarta,2019-05-05,rapid
+No,Male,31-50,more than IDR 25 million,Central Jakarta,2019-05-05,rapid
+Yes,Male,31-50,IDR 5-10 million,Central Jakarta,2019-05-05,rapid
+No,Female,18-34,more than IDR 25 million,North Jakarta,2019-05-05,rapid
+No,Female,50+,IDR 10-25 million,South Jakarta,2019-05-05,rapid
+Yes,Male,18-34,IDR 10-25 million,West Jakarta,2019-05-05,rapid
+Yes,Male,18-34,IDR 5-10 million,North Jakarta,2019-05-05,rapid
+Yes,Male,50+,IDR 5-10 million,West Jakarta,2019-05-05,rapid
+Yes,Male,50+,IDR 3-5 million,East Jakarta,2019-05-05,rapid
+Yes,Male,50+,IDR 3-5 million,West Jakarta,2019-05-05,rapid
+Yes,Female,31-50,IDR 10-25 million,West Jakarta,2019-05-05,rapid
+Yes,Female,18-34,more than IDR 25 million,North Jakarta,2019-05-05,rapid
+No,Female,31-50,IDR 5-10 million,Central Jakarta,2019-05-05,rapid
+No,Male,18-34,IDR 10-25 million,Central Jakarta,2019-05-05,rapid
+No,Female,18-34,IDR 5-10 million,South Jakarta,2019-05-05,rapid
+No,Female,50+,more than IDR 25 million,East Jakarta,2019-05-05,rapid
+No,Male,31-50,IDR 5-10 million,North Jakarta,2019-05-05,rapid
+No,Female,31-50,IDR 10-25 million,North Jakarta,2019-05-05,rapid
+No,Male,50+,more than IDR 25 million,East Jakarta,2019-05-05,rapid
+Yes,Female,50+,IDR 5-10 million,South Jakarta,2019-05-05,rapid
+Yes,Female,18-34,IDR 10-25 million,Central Jakarta,2019-05-05,rapid
+No,Male,31-50,more than IDR 25 million,West Jakarta,2019-05-05,rapid
+No,Male,50+,IDR 3-5 million,South Jakarta,2019-05-05,rapid
+No,Male,31-50,less than IDR 3 million,West Jakarta,2019-05-05,rapid
+Yes,Female,31-50,IDR 5-10 million,North Jakarta,2019-05-05,rapid
+Yes,Female,50+,more than IDR 25 million,Central Jakarta,2019-05-05,rapid
+Yes,Male,31-50,more than IDR 25 million,East Jakarta,2019-05-05,rapid
+No,Male,31-50,IDR 10-25 million,East Jakarta,2019-05-05,rapid
+Yes,Male,50+,less than IDR 3 million,East Jakarta,2019-05-05,rapid
+No,Female,31-50,IDR 10-25 million,South Jakarta,2019-05-05,rapid
+No,Male,31-50,IDR 3-5 million,West Jakarta,2019-05-05,rapid
+Yes,Male,50+,IDR 10-25 million,West Jakarta,2019-05-05,rapid
+No,Female,50+,IDR 10-25 million,Central Jakarta,2019-05-06,rapid
+No,Male,50+,more than IDR 25 million,Central Jakarta,2019-05-06,rapid
+Yes,Male,18-34,less than IDR 3 million,North Jakarta,2019-05-06,rapid
+No,Female,50+,less than IDR 3 million,Central Jakarta,2019-05-06,rapid
+No,Female,18-34,IDR 10-25 million,Central Jakarta,2019-05-06,rapid
+Yes,Male,18-34,less than IDR 3 million,East Jakarta,2019-05-06,rapid
+Yes,Male,31-50,less than IDR 3 million,West Jakarta,2019-05-06,rapid
+No,Male,31-50,less than IDR 3 million,North Jakarta,2019-05-06,rapid
+No,Female,18-34,IDR 5-10 million,East Jakarta,2019-05-06,rapid
+No,Male,18-34,more than IDR 25 million,Central Jakarta,2019-05-06,rapid
+Yes,Female,50+,less than IDR 3 million,East Jakarta,2019-05-06,rapid
+Yes,Female,18-34,IDR 5-10 million,West Jakarta,2019-05-06,rapid
+Yes,Female,31-50,less than IDR 3 million,Central Jakarta,2019-05-06,rapid
+No,Male,18-34,more than IDR 25 million,West Jakarta,2019-05-06,rapid
+Yes,Female,50+,IDR 10-25 million,West Jakarta,2019-05-06,rapid
+Yes,Male,50+,IDR 5-10 million,South Jakarta,2019-05-06,rapid
+No,Female,18-34,IDR 10-25 million,East Jakarta,2019-05-06,rapid
+Yes,Male,18-34,more than IDR 25 million,West Jakarta,2019-05-06,rapid
+No,Male,31-50,less than IDR 3 million,West Jakarta,2019-05-06,rapid
+No,Female,50+,more than IDR 25 million,North Jakarta,2019-05-06,rapid
+No,Male,18-34,less than IDR 3 million,South Jakarta,2019-05-06,rapid
+Yes,Female,50+,IDR 5-10 million,North Jakarta,2019-05-06,rapid
+Yes,Female,31-50,IDR 10-25 million,East Jakarta,2019-05-06,rapid
+No,Female,31-50,IDR 3-5 million,Central Jakarta,2019-05-06,rapid
+Yes,Male,50+,more than IDR 25 million,East Jakarta,2019-05-06,rapid
+Yes,Male,18-34,less than IDR 3 million,South Jakarta,2019-05-06,rapid
+Yes,Female,18-34,IDR 3-5 million,North Jakarta,2019-05-06,rapid
+No,Female,50+,IDR 3-5 million,East Jakarta,2019-05-06,rapid
+No,Female,31-50,IDR 10-25 million,North Jakarta,2019-05-13,rapid
+No,Male,31-50,less than IDR 3 million,West Jakarta,2019-05-13,rapid
+No,Female,18-34,IDR 10-25 million,West Jakarta,2019-05-13,rapid
+Yes,Female,31-50,more than IDR 25 million,East Jakarta,2019-05-13,rapid
+No,Male,31-50,more than IDR 25 million,Central Jakarta,2019-05-13,rapid
+No,Male,50+,IDR 5-10 million,West Jakarta,2019-05-13,rapid
+Yes,Male,50+,more than IDR 25 million,Central Jakarta,2019-05-13,rapid
+Yes,Male,18-34,IDR 10-25 million,West Jakarta,2019-05-13,rapid
+No,Male,50+,IDR 10-25 million,North Jakarta,2019-05-13,rapid
+Yes,Male,18-34,IDR 10-25 million,South Jakarta,2019-05-13,rapid
+Yes,Male,31-50,IDR 10-25 million,South Jakarta,2019-05-13,rapid
+No,Male,50+,IDR 5-10 million,South Jakarta,2019-05-13,rapid
+Yes,Female,50+,IDR 5-10 million,West Jakarta,2019-05-13,rapid
+No,Female,18-34,more than IDR 25 million,North Jakarta,2019-05-13,rapid
+Yes,Female,50+,less than IDR 3 million,North Jakarta,2019-05-13,rapid
+Yes,Male,31-50,IDR 5-10 million,West Jakarta,2019-05-13,rapid
+Yes,Male,18-34,less than IDR 3 million,East Jakarta,2019-05-13,rapid
+No,Female,31-50,IDR 5-10 million,Central Jakarta,2019-05-13,rapid
+No,Female,31-50,IDR 10-25 million,West Jakarta,2019-05-14,rapid
+No,Male,18-34,IDR 10-25 million,Central Jakarta,2019-05-14,rapid
+No,Female,50+,IDR 10-25 million,Central Jakarta,2019-05-14,rapid
+No,Male,50+,IDR 10-25 million,Central Jakarta,2019-05-14,rapid
+Yes,Female,50+,IDR 3-5 million,South Jakarta,2019-05-14,rapid
+No,Male,18-34,less than IDR 3 million,Central Jakarta,2019-05-14,rapid
+No,Male,31-50,IDR 5-10 million,Central Jakarta,2019-05-14,rapid
+No,Female,31-50,more than IDR 25 million,West Jakarta,2019-05-14,rapid
+No,Male,50+,more than IDR 25 million,North Jakarta,2019-05-14,rapid
+Yes,Male,31-50,IDR 5-10 million,West Jakarta,2019-05-14,rapid
+Yes,Male,50+,IDR 3-5 million,West Jakarta,2019-05-14,rapid
+Yes,Male,50+,IDR 10-25 million,North Jakarta,2019-05-14,rapid
+Yes,Male,31-50,more than IDR 25 million,North Jakarta,2019-05-14,rapid
+Yes,Female,18-34,less than IDR 3 million,West Jakarta,2019-05-14,rapid
+Yes,Male,18-34,more than IDR 25 million,West Jakarta,2019-05-14,rapid
+Yes,Male,31-50,IDR 3-5 million,West Jakarta,2019-05-15,rapid
+No,Male,31-50,IDR 3-5 million,East Jakarta,2019-05-15,rapid
+No,Male,50+,less than IDR 3 million,North Jakarta,2019-05-15,rapid
+No,Female,18-34,IDR 10-25 million,Central Jakarta,2019-05-15,rapid
+Yes,Male,50+,less than IDR 3 million,South Jakarta,2019-05-15,rapid
+Yes,Female,31-50,IDR 10-25 million,West Jakarta,2019-05-15,rapid
+No,Female,18-34,IDR 5-10 million,West Jakarta,2019-05-15,rapid
+No,Female,18-34,more than IDR 25 million,South Jakarta,2019-05-15,rapid
+Yes,Female,50+,IDR 3-5 million,North Jakarta,2019-05-15,rapid
+Yes,Male,18-34,more than IDR 25 million,West Jakarta,2019-05-15,rapid
+Yes,Female,18-34,IDR 5-10 million,East Jakarta,2019-05-15,rapid
+No,Male,50+,more than IDR 25 million,South Jakarta,2019-05-15,rapid
+Yes,Female,31-50,less than IDR 3 million,West Jakarta,2019-05-15,rapid
+No,Female,31-50,less than IDR 3 million,South Jakarta,2019-05-16,rapid
+Yes,Female,50+,IDR 3-5 million,West Jakarta,2019-05-16,rapid
+Yes,Male,31-50,IDR 10-25 million,South Jakarta,2019-05-16,rapid
+No,Female,18-34,IDR 5-10 million,West Jakarta,2019-05-16,rapid
+Yes,Male,50+,less than IDR 3 million,West Jakarta,2019-05-16,rapid
+Yes,Male,31-50,more than IDR 25 million,West Jakarta,2019-05-16,rapid
+Yes,Male,18-34,IDR 3-5 million,East Jakarta,2019-05-16,rapid
+Yes,Male,50+,IDR 5-10 million,Central Jakarta,2019-05-16,rapid
+No,Female,50+,less than IDR 3 million,North Jakarta,2019-05-16,rapid
+Yes,Female,31-50,IDR 5-10 million,West Jakarta,2019-05-16,rapid
+No,Female,31-50,IDR 10-25 million,North Jakarta,2019-05-16,rapid
+No,Male,31-50,IDR 3-5 million,South Jakarta,2019-05-16,rapid
+Yes,Female,50+,less than IDR 3 million,South Jakarta,2019-05-16,rapid
+No,Male,50+,IDR 5-10 million,East Jakarta,2019-05-16,rapid
+Yes,Male,31-50,IDR 10-25 million,North Jakarta,2019-05-16,rapid
+Yes,Male,18-34,IDR 5-10 million,East Jakarta,2019-05-16,rapid
+No,Female,50+,IDR 3-5 million,Central Jakarta,2019-05-17,rapid
+Yes,Male,31-50,less than IDR 3 million,East Jakarta,2019-05-17,rapid
+Yes,Female,18-34,IDR 5-10 million,North Jakarta,2019-05-17,rapid
+No,Female,31-50,less than IDR 3 million,East Jakarta,2019-05-17,rapid
+Yes,Male,31-50,less than IDR 3 million,Central Jakarta,2019-05-17,rapid
+No,Female,50+,IDR 10-25 million,Central Jakarta,2019-05-17,rapid
+Yes,Male,18-34,IDR 5-10 million,Central Jakarta,2019-05-17,rapid
+No,Male,50+,IDR 10-25 million,Central Jakarta,2019-05-17,rapid
+Yes,Female,18-34,less than IDR 3 million,West Jakarta,2019-05-17,rapid
+No,Male,18-34,IDR 3-5 million,West Jakarta,2019-05-17,rapid
+Yes,Male,18-34,more than IDR 25 million,West Jakarta,2019-05-17,rapid
+No,Female,18-34,IDR 10-25 million,West Jakarta,2019-05-18,rapid
+No,Female,18-34,IDR 10-25 million,Central Jakarta,2019-05-18,rapid
+Yes,Female,50+,IDR 10-25 million,South Jakarta,2019-05-18,rapid
+No,Female,50+,less than IDR 3 million,South Jakarta,2019-05-18,rapid
+Yes,Female,18-34,more than IDR 25 million,East Jakarta,2019-05-18,rapid
+Yes,Male,31-50,IDR 3-5 million,West Jakarta,2019-05-18,rapid
+No,Male,18-34,less than IDR 3 million,South Jakarta,2019-05-18,rapid
+No,Male,50+,less than IDR 3 million,West Jakarta,2019-05-18,rapid
+No,Female,18-34,more than IDR 25 million,East Jakarta,2019-05-18,rapid
+No,Male,50+,more than IDR 25 million,East Jakarta,2019-05-18,rapid
+No,Male,31-50,IDR 10-25 million,Central Jakarta,2019-05-18,rapid
+No,Male,31-50,IDR 3-5 million,North Jakarta,2019-05-18,rapid
+No,Female,18-34,less than IDR 3 million,East Jakarta,2019-05-18,rapid
+No,Female,31-50,IDR 3-5 million,West Jakarta,2019-05-18,rapid
+No,Female,50+,IDR 5-10 million,Central Jakarta,2019-05-18,rapid
+No,Female,18-34,IDR 5-10 million,East Jakarta,2019-05-19,rapid
+Yes,Male,50+,IDR 5-10 million,North Jakarta,2019-05-19,rapid
+Yes,Female,31-50,IDR 10-25 million,Central Jakarta,2019-05-19,rapid
+Yes,Male,18-34,IDR 3-5 million,Central Jakarta,2019-05-19,rapid
+No,Male,18-34,less than IDR 3 million,West Jakarta,2019-05-19,rapid
+No,Female,18-34,IDR 10-25 million,West Jakarta,2019-05-19,rapid
+Yes,Female,18-34,IDR 10-25 million,West Jakarta,2019-05-19,rapid
+No,Female,31-50,IDR 5-10 million,East Jakarta,2019-05-19,rapid
+No,Male,50+,IDR 10-25 million,West Jakarta,2019-05-19,rapid
+Yes,Male,50+,IDR 5-10 million,Central Jakarta,2019-05-19,rapid
+No,Male,50+,IDR 3-5 million,West Jakarta,2019-05-19,rapid
+Yes,Male,18-34,more than IDR 25 million,East Jakarta,2019-05-19,rapid
+No,Female,31-50,IDR 10-25 million,South Jakarta,2019-05-19,rapid
+No,Male,50+,IDR 3-5 million,Central Jakarta,2019-05-19,rapid
+Yes,Female,18-34,less than IDR 3 million,North Jakarta,2019-05-19,rapid
+Yes,Female,31-50,IDR 5-10 million,North Jakarta,2019-05-19,rapid
+No,Female,31-50,IDR 10-25 million,East Jakarta,2019-05-20,rapid
+Yes,Male,50+,IDR 5-10 million,Central Jakarta,2019-05-20,rapid
+Yes,Female,50+,IDR 3-5 million,Central Jakarta,2019-05-20,rapid
+No,Female,18-34,IDR 10-25 million,East Jakarta,2019-05-20,rapid
+No,Female,31-50,IDR 5-10 million,East Jakarta,2019-05-20,rapid
+Yes,Female,31-50,IDR 5-10 million,East Jakarta,2019-05-20,rapid
+Yes,Female,50+,IDR 5-10 million,East Jakarta,2019-05-20,rapid
+Yes,Female,18-34,IDR 10-25 million,Central Jakarta,2019-05-20,rapid
+No,Male,31-50,more than IDR 25 million,North Jakarta,2019-05-20,rapid
+Yes,Female,31-50,IDR 3-5 million,South Jakarta,2019-05-20,rapid
+No,Male,50+,IDR 10-25 million,East Jakarta,2019-05-20,rapid
+Yes,Male,50+,IDR 3-5 million,North Jakarta,2019-05-20,rapid
+Yes,Male,50+,more than IDR 25 million,East Jakarta,2019-05-20,rapid
+No,Male,50+,more than IDR 25 million,Central Jakarta,2019-05-20,rapid
+Yes,Female,31-50,more than IDR 25 million,West Jakarta,2019-05-21,rapid
+No,Female,31-50,more than IDR 25 million,East Jakarta,2019-05-21,rapid
+Yes,Female,18-34,IDR 5-10 million,Central Jakarta,2019-05-21,rapid
+No,Male,31-50,IDR 10-25 million,West Jakarta,2019-05-21,rapid
+No,Male,50+,less than IDR 3 million,North Jakarta,2019-05-21,rapid
+Yes,Female,50+,less than IDR 3 million,East Jakarta,2019-05-21,rapid
+Yes,Male,50+,IDR 3-5 million,Central Jakarta,2019-05-21,rapid
+No,Male,18-34,less than IDR 3 million,Central Jakarta,2019-05-21,rapid
+No,Female,18-34,IDR 3-5 million,South Jakarta,2019-05-21,rapid
+Yes,Male,18-34,less than IDR 3 million,Central Jakarta,2019-05-21,rapid
+Yes,Female,18-34,IDR 10-25 million,Central Jakarta,2019-05-21,rapid
+No,Male,50+,more than IDR 25 million,East Jakarta,2019-05-21,rapid
+Yes,Male,18-34,IDR 10-25 million,West Jakarta,2019-05-21,rapid
+Yes,Male,31-50,more than IDR 25 million,South Jakarta,2019-05-21,rapid
+No,Male,50+,IDR 5-10 million,South Jakarta,2019-05-21,rapid
+Yes,Female,50+,IDR 10-25 million,East Jakarta,2019-05-21,rapid
+No,Female,18-34,more than IDR 25 million,West Jakarta,2019-05-22,rapid
+No,Female,18-34,IDR 5-10 million,North Jakarta,2019-05-22,rapid
+Yes,Female,31-50,less than IDR 3 million,East Jakarta,2019-05-22,rapid
+Yes,Male,31-50,IDR 10-25 million,East Jakarta,2019-05-22,rapid
+No,Male,50+,IDR 3-5 million,North Jakarta,2019-05-22,rapid
+Yes,Male,50+,IDR 3-5 million,West Jakarta,2019-05-22,rapid
+Yes,Male,50+,IDR 5-10 million,Central Jakarta,2019-05-22,rapid
+No,Male,50+,IDR 3-5 million,West Jakarta,2019-05-22,rapid
+No,Female,50+,IDR 10-25 million,Central Jakarta,2019-05-22,rapid
+Yes,Male,31-50,less than IDR 3 million,South Jakarta,2019-05-22,rapid
+Yes,Male,31-50,more than IDR 25 million,West Jakarta,2019-05-22,rapid
+Yes,Female,50+,more than IDR 25 million,South Jakarta,2019-05-22,rapid
+Yes,Female,31-50,IDR 5-10 million,Central Jakarta,2019-05-22,rapid
+Yes,Female,31-50,IDR 5-10 million,Central Jakarta,2019-05-23,rapid
+Yes,Female,50+,IDR 3-5 million,West Jakarta,2019-05-23,rapid
+Yes,Female,31-50,IDR 3-5 million,North Jakarta,2019-05-23,rapid
+Yes,Male,18-34,IDR 10-25 million,North Jakarta,2019-05-23,rapid
+No,Male,50+,less than IDR 3 million,East Jakarta,2019-05-23,rapid
+Yes,Female,18-34,less than IDR 3 million,West Jakarta,2019-05-23,rapid
+Yes,Female,31-50,IDR 10-25 million,South Jakarta,2019-05-23,rapid
+Yes,Female,50+,less than IDR 3 million,South Jakarta,2019-05-23,rapid
+Yes,Female,18-34,IDR 5-10 million,West Jakarta,2019-05-23,rapid
+Yes,Male,31-50,more than IDR 25 million,South Jakarta,2019-05-23,rapid
+No,Female,50+,IDR 5-10 million,Central Jakarta,2019-05-23,rapid
+No,Male,31-50,IDR 3-5 million,North Jakarta,2019-05-23,rapid
+Yes,Female,18-34,IDR 5-10 million,Central Jakarta,2019-05-23,rapid
+No,Female,31-50,IDR 10-25 million,North Jakarta,2019-05-23,rapid
+Yes,Male,50+,IDR 10-25 million,West Jakarta,2019-05-23,rapid
+Yes,Female,18-34,IDR 10-25 million,Central Jakarta,2019-05-23,rapid
+No,Female,31-50,IDR 3-5 million,East Jakarta,2019-05-23,rapid
+No,Female,31-50,less than IDR 3 million,South Jakarta,2019-05-23,rapid
+No,Male,50+,less than IDR 3 million,South Jakarta,2019-05-23,rapid
+No,Female,31-50,less than IDR 3 million,East Jakarta,2019-05-23,rapid
+No,Male,50+,IDR 10-25 million,North Jakarta,2019-05-23,rapid
+Yes,Female,18-34,more than IDR 25 million,North Jakarta,2019-05-24,rapid
+Yes,Female,18-34,more than IDR 25 million,South Jakarta,2019-05-24,rapid
+Yes,Male,31-50,less than IDR 3 million,North Jakarta,2019-05-24,rapid
+Yes,Female,31-50,IDR 3-5 million,East Jakarta,2019-05-24,rapid
+No,Female,50+,more than IDR 25 million,Central Jakarta,2019-05-24,rapid
+No,Male,50+,IDR 3-5 million,West Jakarta,2019-05-24,rapid
+No,Female,31-50,less than IDR 3 million,South Jakarta,2019-05-24,rapid
+No,Male,50+,more than IDR 25 million,South Jakarta,2019-05-24,rapid
+Yes,Female,18-34,IDR 5-10 million,Central Jakarta,2019-05-24,rapid
+Yes,Female,31-50,less than IDR 3 million,North Jakarta,2019-05-24,rapid
+Yes,Female,50+,IDR 10-25 million,West Jakarta,2019-05-24,rapid
+No,Male,50+,more than IDR 25 million,North Jakarta,2019-05-24,rapid
+No,Male,31-50,IDR 10-25 million,North Jakarta,2019-05-24,rapid
+No,Male,18-34,less than IDR 3 million,Central Jakarta,2019-05-24,rapid
+Yes,Male,18-34,IDR 5-10 million,East Jakarta,2019-05-24,rapid
+Yes,Male,31-50,IDR 3-5 million,North Jakarta,2019-05-24,rapid
+No,Female,18-34,IDR 10-25 million,North Jakarta,2019-05-25,rapid
+No,Female,18-34,IDR 3-5 million,South Jakarta,2019-05-25,rapid
+No,Male,31-50,IDR 3-5 million,North Jakarta,2019-05-25,rapid
+Yes,Male,31-50,IDR 3-5 million,South Jakarta,2019-05-25,rapid
+Yes,Male,18-34,IDR 10-25 million,South Jakarta,2019-05-25,rapid
+Yes,Male,31-50,IDR 10-25 million,Central Jakarta,2019-05-25,rapid
+Yes,Male,50+,more than IDR 25 million,East Jakarta,2019-05-25,rapid
+Yes,Male,31-50,IDR 3-5 million,East Jakarta,2019-05-25,rapid
+Yes,Female,50+,less than IDR 3 million,East Jakarta,2019-05-25,rapid
+No,Male,50+,IDR 10-25 million,South Jakarta,2019-05-25,rapid
+Yes,Female,50+,IDR 10-25 million,South Jakarta,2019-05-25,rapid
+No,Female,18-34,IDR 5-10 million,North Jakarta,2019-05-25,rapid
+No,Female,50+,less than IDR 3 million,Central Jakarta,2019-05-25,rapid
+No,Male,18-34,less than IDR 3 million,East Jakarta,2019-05-25,rapid
+Yes,Male,18-34,IDR 3-5 million,East Jakarta,2019-05-25,rapid
+No,Male,31-50,more than IDR 25 million,West Jakarta,2019-05-25,rapid
+No,Female,31-50,IDR 10-25 million,Central Jakarta,2019-05-25,rapid
+No,Female,18-34,more than IDR 25 million,West Jakarta,2019-05-25,rapid
+No,Male,50+,IDR 10-25 million,North Jakarta,2019-05-26,rapid
+No,Female,50+,more than IDR 25 million,Central Jakarta,2019-05-26,rapid
+Yes,Female,31-50,more than IDR 25 million,South Jakarta,2019-05-26,rapid
+No,Female,18-34,IDR 3-5 million,East Jakarta,2019-05-26,rapid
+Yes,Male,18-34,IDR 5-10 million,East Jakarta,2019-05-26,rapid
+Yes,Male,31-50,IDR 10-25 million,East Jakarta,2019-05-26,rapid
+Yes,Female,18-34,IDR 10-25 million,East Jakarta,2019-05-26,rapid
+Yes,Male,31-50,IDR 3-5 million,East Jakarta,2019-05-26,rapid
+No,Male,31-50,IDR 10-25 million,West Jakarta,2019-05-26,rapid
+No,Female,18-34,IDR 10-25 million,South Jakarta,2019-05-26,rapid
+Yes,Female,50+,IDR 5-10 million,West Jakarta,2019-05-26,rapid
+Yes,Male,50+,more than IDR 25 million,West Jakarta,2019-05-26,rapid
+No,Male,18-34,IDR 3-5 million,West Jakarta,2019-05-26,rapid
+Yes,Female,31-50,IDR 3-5 million,South Jakarta,2019-05-26,rapid
+No,Female,31-50,IDR 3-5 million,North Jakarta,2019-05-26,rapid
+Yes,Male,50+,IDR 3-5 million,West Jakarta,2019-05-26,rapid
+No,Male,18-34,less than IDR 3 million,Central Jakarta,2019-05-26,rapid
+No,Female,18-34,IDR 5-10 million,East Jakarta,2019-05-27,rapid
+No,Female,31-50,IDR 5-10 million,North Jakarta,2019-05-27,rapid
+No,Female,18-34,IDR 5-10 million,West Jakarta,2019-05-27,rapid
+No,Male,31-50,more than IDR 25 million,South Jakarta,2019-05-27,rapid
+No,Male,18-34,less than IDR 3 million,South Jakarta,2019-05-27,rapid
+Yes,Male,31-50,IDR 5-10 million,North Jakarta,2019-05-27,rapid
+No,Male,18-34,IDR 10-25 million,South Jakarta,2019-05-27,rapid
+No,Female,31-50,less than IDR 3 million,East Jakarta,2019-05-27,rapid
+No,Male,18-34,IDR 3-5 million,South Jakarta,2019-05-27,rapid
+No,Female,18-34,IDR 5-10 million,South Jakarta,2019-05-27,rapid
+Yes,Female,31-50,less than IDR 3 million,East Jakarta,2019-05-27,rapid
+Yes,Female,31-50,IDR 3-5 million,South Jakarta,2019-05-27,rapid
+No,Female,18-34,IDR 10-25 million,West Jakarta,2019-05-28,rapid
+Yes,Female,31-50,IDR 3-5 million,East Jakarta,2019-05-28,rapid
+Yes,Female,50+,less than IDR 3 million,Central Jakarta,2019-05-28,rapid
+No,Female,50+,IDR 5-10 million,West Jakarta,2019-05-28,rapid
+No,Female,31-50,IDR 3-5 million,East Jakarta,2019-05-28,rapid
+No,Female,50+,IDR 10-25 million,South Jakarta,2019-05-28,rapid
+Yes,Female,18-34,IDR 10-25 million,North Jakarta,2019-05-28,rapid
+No,Male,50+,more than IDR 25 million,North Jakarta,2019-05-28,rapid
+No,Female,31-50,IDR 10-25 million,North Jakarta,2019-05-28,rapid
+No,Male,50+,IDR 3-5 million,West Jakarta,2019-05-28,rapid
+Yes,Female,31-50,IDR 5-10 million,North Jakarta,2019-05-28,rapid
+No,Male,31-50,less than IDR 3 million,West Jakarta,2019-05-28,rapid
+No,Male,50+,IDR 5-10 million,Central Jakarta,2019-05-28,rapid
+No,Female,50+,more than IDR 25 million,West Jakarta,2019-05-28,rapid
+Yes,Male,50+,more than IDR 25 million,East Jakarta,2019-05-28,rapid
+No,Male,31-50,less than IDR 3 million,Central Jakarta,2019-05-28,rapid
+No,Male,50+,IDR 5-10 million,North Jakarta,2019-05-28,rapid
+Yes,Female,18-34,less than IDR 3 million,South Jakarta,2019-05-28,rapid
+No,Female,31-50,less than IDR 3 million,North Jakarta,2019-05-29,rapid
+Yes,Male,18-34,less than IDR 3 million,West Jakarta,2019-05-29,rapid
+Yes,Female,31-50,IDR 3-5 million,Central Jakarta,2019-05-29,rapid
+No,Female,50+,IDR 10-25 million,West Jakarta,2019-05-29,rapid
+Yes,Male,18-34,IDR 3-5 million,North Jakarta,2019-05-29,rapid
+Yes,Female,18-34,less than IDR 3 million,East Jakarta,2019-05-29,rapid
+Yes,Male,31-50,IDR 5-10 million,North Jakarta,2019-05-29,rapid
+Yes,Male,31-50,IDR 3-5 million,Central Jakarta,2019-05-29,rapid
+Yes,Male,50+,more than IDR 25 million,South Jakarta,2019-05-29,rapid
+Yes,Male,50+,less than IDR 3 million,East Jakarta,2019-05-29,rapid
+Yes,Male,18-34,IDR 5-10 million,West Jakarta,2019-05-29,rapid
+Yes,Male,31-50,less than IDR 3 million,South Jakarta,2019-05-29,rapid
+Yes,Male,18-34,less than IDR 3 million,Central Jakarta,2019-05-29,rapid
+No,Female,18-34,IDR 5-10 million,Central Jakarta,2019-05-30,rapid
+Yes,Male,50+,IDR 5-10 million,Central Jakarta,2019-05-30,rapid
+No,Male,18-34,less than IDR 3 million,East Jakarta,2019-05-30,rapid
+Yes,Male,18-34,less than IDR 3 million,South Jakarta,2019-05-30,rapid
+No,Male,50+,more than IDR 25 million,East Jakarta,2019-05-30,rapid
+Yes,Female,31-50,less than IDR 3 million,North Jakarta,2019-05-30,rapid
+Yes,Female,31-50,IDR 3-5 million,North Jakarta,2019-05-30,rapid
+No,Female,18-34,IDR 10-25 million,East Jakarta,2019-05-30,rapid
+Yes,Male,18-34,more than IDR 25 million,Central Jakarta,2019-05-30,rapid
+No,Female,50+,more than IDR 25 million,East Jakarta,2019-05-30,rapid
+No,Female,50+,IDR 10-25 million,North Jakarta,2019-05-30,rapid
+Yes,Female,50+,more than IDR 25 million,East Jakarta,2019-05-30,rapid
+Yes,Male,31-50,less than IDR 3 million,West Jakarta,2019-05-30,rapid
+Yes,Male,31-50,more than IDR 25 million,South Jakarta,2019-05-30,rapid
+No,Female,31-50,more than IDR 25 million,North Jakarta,2019-05-30,rapid
+Yes,Female,31-50,more than IDR 25 million,North Jakarta,2019-05-31,rapid
+No,Female,18-34,more than IDR 25 million,East Jakarta,2019-05-31,rapid
+No,Male,18-34,IDR 5-10 million,Central Jakarta,2019-05-31,rapid
+Yes,Male,50+,IDR 3-5 million,East Jakarta,2019-05-31,rapid
+Yes,Female,18-34,IDR 10-25 million,West Jakarta,2019-05-31,rapid
+Yes,Female,18-34,IDR 3-5 million,Central Jakarta,2019-05-31,rapid
+No,Male,18-34,less than IDR 3 million,Central Jakarta,2019-05-31,rapid
+Yes,Male,31-50,IDR 10-25 million,East Jakarta,2019-05-31,rapid
+Yes,Male,31-50,more than IDR 25 million,Central Jakarta,2019-05-31,rapid
+Yes,Female,31-50,more than IDR 25 million,Central Jakarta,2019-05-31,rapid
+Yes,Male,18-34,more than IDR 25 million,South Jakarta,2019-05-31,rapid
+No,Male,18-34,less than IDR 3 million,North Jakarta,2019-05-31,rapid
+Yes,Male,18-34,IDR 10-25 million,East Jakarta,2019-05-31,rapid
+Yes,Female,31-50,less than IDR 3 million,South Jakarta,2019-05-31,rapid
+Yes,Male,31-50,less than IDR 3 million,East Jakarta,2019-05-31,rapid
+No,Female,50+,less than IDR 3 million,West Jakarta,2019-05-31,rapid
+No,Male,50+,IDR 3-5 million,East Jakarta,2019-05-31,rapid
+No,Male,31-50,more than IDR 25 million,West Jakarta,2019-05-31,rapid
+Yes,Female,18-34,IDR 3-5 million,West Jakarta,2019-05-31,rapid
+Yes,Female,18-34,less than IDR 3 million,North Jakarta,2019-05-31,rapid
+Yes,Female,50+,more than IDR 25 million,Central Jakarta,2019-05-31,rapid
+No,Female,18-34,IDR 5-10 million,North Jakarta,2019-05-31,rapid
+No,Male,50+,IDR 5-10 million,West Jakarta,2019-05-31,rapid
+No,Female,31-50,IDR 3-5 million,North Jakarta,2019-05-31,rapid
+Yes,Male,31-50,more than IDR 25 million,East Jakarta,2019-05-31,rapid
+No,Male,31-50,IDR 5-10 million,West Jakarta,2019-05-31,rapid
+Yes,Male,18-34,less than IDR 3 million,North Jakarta,2019-05-31,rapid
+No,Female,18-34,IDR 10-25 million,West Jakarta,2019-05-31,rapid
+No,Female,18-34,IDR 10-25 million,East Jakarta,2019-05-31,rapid
+Yes,Female,31-50,less than IDR 3 million,North Jakarta,2019-05-31,rapid
+Yes,Female,18-34,IDR 5-10 million,West Jakarta,2019-06-06,rapid
+Yes,Male,31-50,more than IDR 25 million,North Jakarta,2019-06-06,rapid
+Yes,Male,18-34,IDR 3-5 million,Central Jakarta,2019-06-06,rapid
+No,Male,50+,more than IDR 25 million,North Jakarta,2019-06-06,rapid
+No,Male,18-34,more than IDR 25 million,South Jakarta,2019-06-06,rapid
+No,Female,31-50,IDR 10-25 million,North Jakarta,2019-06-06,rapid
+No,Male,18-34,IDR 3-5 million,South Jakarta,2019-06-06,rapid
+Yes,Female,18-34,more than IDR 25 million,South Jakarta,2019-06-06,rapid
+No,Female,18-34,IDR 5-10 million,Central Jakarta,2019-06-06,rapid
+No,Female,50+,IDR 5-10 million,East Jakarta,2019-06-06,rapid
+Yes,Male,18-34,IDR 5-10 million,North Jakarta,2019-06-06,rapid
+No,Female,18-34,IDR 10-25 million,South Jakarta,2019-06-06,rapid
+No,Male,18-34,IDR 10-25 million,North Jakarta,2019-06-06,rapid
+Yes,Male,18-34,IDR 3-5 million,South Jakarta,2019-06-06,rapid
+Yes,Male,18-34,less than IDR 3 million,North Jakarta,2019-06-06,rapid
+No,Male,50+,more than IDR 25 million,South Jakarta,2019-06-06,rapid
+No,Male,50+,IDR 10-25 million,Central Jakarta,2019-06-06,rapid
+No,Male,50+,IDR 3-5 million,Central Jakarta,2019-06-06,rapid
+Yes,Male,50+,IDR 10-25 million,Central Jakarta,2019-06-06,rapid
+No,Female,31-50,less than IDR 3 million,East Jakarta,2019-06-13,rapid
+Yes,Female,18-34,IDR 5-10 million,North Jakarta,2019-06-13,rapid
+Yes,Male,18-34,IDR 10-25 million,Central Jakarta,2019-06-13,rapid
+No,Male,31-50,less than IDR 3 million,North Jakarta,2019-06-13,rapid
+Yes,Male,50+,more than IDR 25 million,South Jakarta,2019-06-13,rapid
+Yes,Female,18-34,IDR 10-25 million,North Jakarta,2019-06-13,rapid
+No,Female,18-34,IDR 10-25 million,South Jakarta,2019-06-13,rapid
+Yes,Female,50+,IDR 3-5 million,Central Jakarta,2019-06-13,rapid
+No,Female,18-34,IDR 5-10 million,East Jakarta,2019-06-13,rapid
+No,Male,50+,IDR 3-5 million,East Jakarta,2019-06-13,rapid
+No,Male,18-34,IDR 3-5 million,South Jakarta,2019-06-13,rapid
+No,Female,31-50,IDR 10-25 million,East Jakarta,2019-06-13,rapid
+No,Male,18-34,IDR 3-5 million,West Jakarta,2019-06-13,rapid
+Yes,Male,18-34,IDR 10-25 million,South Jakarta,2019-06-13,rapid
+Yes,Male,31-50,less than IDR 3 million,South Jakarta,2019-06-13,rapid
+Yes,Female,31-50,IDR 5-10 million,West Jakarta,2019-06-13,rapid
+No,Male,50+,IDR 10-25 million,East Jakarta,2019-06-13,rapid
+No,Male,18-34,IDR 5-10 million,South Jakarta,2019-06-13,rapid
+No,Male,18-34,IDR 10-25 million,North Jakarta,2019-06-14,rapid
+No,Male,31-50,IDR 3-5 million,Central Jakarta,2019-06-14,rapid
+No,Male,31-50,IDR 5-10 million,West Jakarta,2019-06-14,rapid
+Yes,Female,50+,IDR 10-25 million,West Jakarta,2019-06-14,rapid
+No,Female,31-50,IDR 3-5 million,North Jakarta,2019-06-14,rapid
+Yes,Male,50+,less than IDR 3 million,West Jakarta,2019-06-14,rapid
+Yes,Male,18-34,IDR 10-25 million,South Jakarta,2019-06-14,rapid
+No,Male,31-50,less than IDR 3 million,South Jakarta,2019-06-14,rapid
+Yes,Male,50+,more than IDR 25 million,West Jakarta,2019-06-14,rapid
+Yes,Female,50+,more than IDR 25 million,West Jakarta,2019-06-14,rapid
+No,Female,18-34,IDR 10-25 million,South Jakarta,2019-06-14,rapid
+No,Male,50+,less than IDR 3 million,West Jakarta,2019-06-14,rapid
+No,Male,50+,IDR 3-5 million,South Jakarta,2019-06-14,rapid
+Yes,Male,18-34,IDR 3-5 million,West Jakarta,2019-06-14,rapid
+Yes,Female,31-50,more than IDR 25 million,Central Jakarta,2019-06-14,rapid
+Yes,Female,31-50,IDR 5-10 million,North Jakarta,2019-06-14,rapid
+Yes,Male,31-50,more than IDR 25 million,South Jakarta,2019-06-14,rapid
+No,Male,50+,more than IDR 25 million,West Jakarta,2019-06-14,rapid
+No,Female,18-34,IDR 5-10 million,Central Jakarta,2019-06-14,rapid
+No,Female,18-34,IDR 3-5 million,North Jakarta,2019-06-14,rapid
+Yes,Female,31-50,IDR 10-25 million,North Jakarta,2019-06-15,rapid
+Yes,Female,18-34,less than IDR 3 million,Central Jakarta,2019-06-15,rapid
+No,Female,18-34,more than IDR 25 million,East Jakarta,2019-06-15,rapid
+Yes,Male,31-50,more than IDR 25 million,North Jakarta,2019-06-15,rapid
+Yes,Female,50+,IDR 3-5 million,East Jakarta,2019-06-15,rapid
+No,Female,50+,IDR 5-10 million,North Jakarta,2019-06-15,rapid
+No,Female,31-50,IDR 3-5 million,Central Jakarta,2019-06-15,rapid
+Yes,Female,31-50,IDR 5-10 million,North Jakarta,2019-06-15,rapid
+Yes,Male,31-50,IDR 5-10 million,West Jakarta,2019-06-15,rapid
+Yes,Male,50+,IDR 10-25 million,South Jakarta,2019-06-15,rapid
+No,Female,50+,less than IDR 3 million,Central Jakarta,2019-06-15,rapid
+No,Male,31-50,less than IDR 3 million,North Jakarta,2019-06-16,rapid
+Yes,Male,18-34,less than IDR 3 million,West Jakarta,2019-06-16,rapid
+No,Male,50+,more than IDR 25 million,South Jakarta,2019-06-16,rapid
+No,Female,50+,IDR 5-10 million,South Jakarta,2019-06-16,rapid
+Yes,Male,18-34,less than IDR 3 million,South Jakarta,2019-06-16,rapid
+No,Female,18-34,less than IDR 3 million,West Jakarta,2019-06-16,rapid
+Yes,Male,50+,IDR 3-5 million,South Jakarta,2019-06-16,rapid
+Yes,Female,31-50,IDR 3-5 million,Central Jakarta,2019-06-16,rapid
+Yes,Female,18-34,more than IDR 25 million,East Jakarta,2019-06-16,rapid
+No,Male,50+,IDR 3-5 million,North Jakarta,2019-06-16,rapid
+Yes,Male,50+,more than IDR 25 million,East Jakarta,2019-06-16,rapid
+No,Male,18-34,more than IDR 25 million,East Jakarta,2019-06-16,rapid
+Yes,Female,31-50,IDR 10-25 million,East Jakarta,2019-06-16,rapid
+No,Female,50+,IDR 10-25 million,West Jakarta,2019-06-16,rapid
+No,Female,18-34,IDR 3-5 million,East Jakarta,2019-06-16,rapid
+Yes,Female,50+,IDR 10-25 million,East Jakarta,2019-06-16,rapid
+No,Female,50+,more than IDR 25 million,South Jakarta,2019-06-16,rapid
+No,Male,50+,less than IDR 3 million,Central Jakarta,2019-06-16,rapid
+Yes,Male,18-34,IDR 10-25 million,South Jakarta,2019-06-16,rapid
+Yes,Female,18-34,IDR 10-25 million,South Jakarta,2019-06-17,rapid
+No,Male,31-50,IDR 3-5 million,East Jakarta,2019-06-17,rapid
+Yes,Female,31-50,IDR 10-25 million,East Jakarta,2019-06-17,rapid
+No,Male,31-50,IDR 3-5 million,West Jakarta,2019-06-17,rapid
+Yes,Male,50+,less than IDR 3 million,South Jakarta,2019-06-17,rapid
+Yes,Male,18-34,more than IDR 25 million,North Jakarta,2019-06-17,rapid
+Yes,Female,31-50,more than IDR 25 million,East Jakarta,2019-06-17,rapid
+Yes,Female,31-50,less than IDR 3 million,South Jakarta,2019-06-17,rapid
+Yes,Female,18-34,IDR 3-5 million,West Jakarta,2019-06-17,rapid
+No,Male,31-50,IDR 10-25 million,North Jakarta,2019-06-17,rapid
+Yes,Male,31-50,IDR 3-5 million,North Jakarta,2019-06-17,rapid
+Yes,Female,31-50,IDR 5-10 million,East Jakarta,2019-06-17,rapid
+Yes,Female,50+,IDR 3-5 million,North Jakarta,2019-06-17,rapid
+No,Male,31-50,less than IDR 3 million,South Jakarta,2019-06-17,rapid
+Yes,Female,18-34,IDR 5-10 million,South Jakarta,2019-06-17,rapid
+Yes,Male,31-50,IDR 3-5 million,South Jakarta,2019-06-17,rapid
+No,Male,50+,IDR 3-5 million,South Jakarta,2019-06-17,rapid
+Yes,Female,18-34,more than IDR 25 million,East Jakarta,2019-06-17,rapid
+No,Female,31-50,less than IDR 3 million,West Jakarta,2019-06-17,rapid
+Yes,Male,31-50,IDR 10-25 million,West Jakarta,2019-06-18,rapid
+No,Male,18-34,less than IDR 3 million,West Jakarta,2019-06-18,rapid
+Yes,Male,31-50,IDR 3-5 million,North Jakarta,2019-06-18,rapid
+Yes,Male,31-50,less than IDR 3 million,South Jakarta,2019-06-18,rapid
+Yes,Female,50+,more than IDR 25 million,West Jakarta,2019-06-18,rapid
+No,Female,31-50,IDR 10-25 million,South Jakarta,2019-06-18,rapid
+No,Female,18-34,IDR 5-10 million,East Jakarta,2019-06-18,rapid
+No,Female,18-34,IDR 10-25 million,South Jakarta,2019-06-18,rapid
+No,Male,50+,IDR 5-10 million,South Jakarta,2019-06-18,rapid
+No,Male,50+,more than IDR 25 million,West Jakarta,2019-06-18,rapid
+Yes,Male,50+,IDR 5-10 million,North Jakarta,2019-06-18,rapid
+Yes,Female,31-50,IDR 10-25 million,East Jakarta,2019-06-18,rapid
+No,Male,50+,IDR 5-10 million,North Jakarta,2019-06-18,rapid
+Yes,Female,50+,less than IDR 3 million,South Jakarta,2019-06-18,rapid
+No,Female,31-50,more than IDR 25 million,Central Jakarta,2019-06-18,rapid
+No,Male,31-50,less than IDR 3 million,West Jakarta,2019-06-18,rapid
+No,Male,18-34,more than IDR 25 million,Central Jakarta,2019-06-18,rapid
+Yes,Male,50+,more than IDR 25 million,North Jakarta,2019-06-18,rapid
+No,Male,31-50,IDR 10-25 million,South Jakarta,2019-06-18,rapid
+No,Female,50+,less than IDR 3 million,East Jakarta,2019-06-18,rapid
+No,Male,31-50,IDR 5-10 million,Central Jakarta,2019-06-18,rapid
+No,Female,18-34,IDR 5-10 million,North Jakarta,2019-06-18,rapid
+Yes,Male,50+,IDR 5-10 million,Central Jakarta,2019-06-18,rapid
+No,Female,31-50,more than IDR 25 million,Central Jakarta,2019-06-19,rapid
+No,Male,31-50,less than IDR 3 million,Central Jakarta,2019-06-19,rapid
+Yes,Female,18-34,less than IDR 3 million,Central Jakarta,2019-06-19,rapid
+Yes,Male,18-34,IDR 5-10 million,East Jakarta,2019-06-19,rapid
+No,Male,31-50,IDR 10-25 million,South Jakarta,2019-06-19,rapid
+Yes,Female,18-34,IDR 3-5 million,North Jakarta,2019-06-19,rapid
+No,Female,18-34,more than IDR 25 million,West Jakarta,2019-06-19,rapid
+No,Female,31-50,IDR 10-25 million,South Jakarta,2019-06-19,rapid
+Yes,Male,18-34,less than IDR 3 million,North Jakarta,2019-06-19,rapid
+No,Female,50+,IDR 5-10 million,Central Jakarta,2019-06-19,rapid
+Yes,Female,50+,less than IDR 3 million,North Jakarta,2019-06-19,rapid
+Yes,Male,18-34,less than IDR 3 million,Central Jakarta,2019-06-19,rapid
+No,Male,31-50,more than IDR 25 million,South Jakarta,2019-06-19,rapid
+No,Female,50+,IDR 10-25 million,South Jakarta,2019-06-19,rapid
+Yes,Female,31-50,IDR 5-10 million,North Jakarta,2019-06-19,rapid
+Yes,Female,31-50,IDR 10-25 million,East Jakarta,2019-06-19,rapid
+No,Female,31-50,IDR 3-5 million,North Jakarta,2019-06-19,rapid
+Yes,Female,31-50,less than IDR 3 million,South Jakarta,2019-06-19,rapid
+Yes,Female,50+,more than IDR 25 million,West Jakarta,2019-06-19,rapid
+Yes,Female,18-34,more than IDR 25 million,South Jakarta,2019-06-19,rapid
+Yes,Male,18-34,IDR 3-5 million,South Jakarta,2019-06-19,rapid
+No,Female,50+,more than IDR 25 million,North Jakarta,2019-06-20,rapid
+No,Male,31-50,less than IDR 3 million,Central Jakarta,2019-06-20,rapid
+Yes,Male,18-34,less than IDR 3 million,North Jakarta,2019-06-20,rapid
+Yes,Female,18-34,more than IDR 25 million,North Jakarta,2019-06-20,rapid
+No,Female,18-34,more than IDR 25 million,South Jakarta,2019-06-20,rapid
+Yes,Male,50+,IDR 5-10 million,East Jakarta,2019-06-20,rapid
+No,Female,31-50,IDR 3-5 million,East Jakarta,2019-06-20,rapid
+Yes,Male,31-50,IDR 3-5 million,North Jakarta,2019-06-20,rapid
+No,Male,18-34,IDR 3-5 million,North Jakarta,2019-06-20,rapid
+No,Male,18-34,less than IDR 3 million,West Jakarta,2019-06-20,rapid
+Yes,Male,50+,more than IDR 25 million,North Jakarta,2019-06-20,rapid
+Yes,Male,18-34,IDR 10-25 million,South Jakarta,2019-06-20,rapid
+Yes,Female,50+,IDR 3-5 million,Central Jakarta,2019-06-20,rapid
+Yes,Male,18-34,IDR 10-25 million,Central Jakarta,2019-06-20,rapid
+Yes,Male,50+,less than IDR 3 million,South Jakarta,2019-06-20,rapid
+No,Male,31-50,IDR 10-25 million,North Jakarta,2019-06-20,rapid
+Yes,Female,50+,less than IDR 3 million,North Jakarta,2019-06-20,rapid
+Yes,Female,50+,IDR 5-10 million,South Jakarta,2019-06-20,rapid
+Yes,Female,18-34,less than IDR 3 million,West Jakarta,2019-06-20,rapid
+No,Female,50+,less than IDR 3 million,East Jakarta,2019-06-20,rapid
+Yes,Female,50+,more than IDR 25 million,North Jakarta,2019-06-21,rapid
+No,Male,50+,less than IDR 3 million,North Jakarta,2019-06-21,rapid
+Yes,Male,50+,IDR 5-10 million,Central Jakarta,2019-06-21,rapid
+Yes,Male,18-34,IDR 10-25 million,Central Jakarta,2019-06-21,rapid
+No,Male,50+,IDR 3-5 million,East Jakarta,2019-06-21,rapid
+No,Female,18-34,IDR 10-25 million,West Jakarta,2019-06-21,rapid
+Yes,Female,50+,IDR 10-25 million,East Jakarta,2019-06-21,rapid
+Yes,Female,31-50,IDR 5-10 million,West Jakarta,2019-06-21,rapid
+No,Female,31-50,IDR 10-25 million,Central Jakarta,2019-06-21,rapid
+Yes,Male,18-34,IDR 3-5 million,East Jakarta,2019-06-21,rapid
+Yes,Male,50+,less than IDR 3 million,East Jakarta,2019-06-21,rapid
+Yes,Male,18-34,IDR 3-5 million,South Jakarta,2019-06-21,rapid
+Yes,Female,18-34,IDR 3-5 million,Central Jakarta,2019-06-21,rapid
+No,Male,50+,IDR 3-5 million,West Jakarta,2019-06-21,rapid
+No,Male,50+,IDR 10-25 million,North Jakarta,2019-06-21,rapid
+No,Male,50+,more than IDR 25 million,East Jakarta,2019-06-21,rapid
+Yes,Female,18-34,IDR 10-25 million,North Jakarta,2019-06-21,rapid
+Yes,Female,31-50,IDR 5-10 million,North Jakarta,2019-06-21,rapid
+No,Female,50+,more than IDR 25 million,West Jakarta,2019-06-21,rapid
+No,Female,50+,IDR 5-10 million,Central Jakarta,2019-06-22,rapid
+Yes,Female,31-50,more than IDR 25 million,South Jakarta,2019-06-22,rapid
+Yes,Female,31-50,IDR 10-25 million,South Jakarta,2019-06-22,rapid
+No,Male,50+,IDR 3-5 million,South Jakarta,2019-06-22,rapid
+No,Female,18-34,more than IDR 25 million,South Jakarta,2019-06-22,rapid
+Yes,Male,31-50,IDR 3-5 million,West Jakarta,2019-06-22,rapid
+Yes,Male,18-34,IDR 10-25 million,West Jakarta,2019-06-22,rapid
+No,Female,31-50,less than IDR 3 million,Central Jakarta,2019-06-22,rapid
+No,Female,31-50,less than IDR 3 million,North Jakarta,2019-06-22,rapid
+No,Male,50+,more than IDR 25 million,West Jakarta,2019-06-22,rapid
+Yes,Male,50+,IDR 3-5 million,South Jakarta,2019-06-22,rapid
+Yes,Male,50+,more than IDR 25 million,South Jakarta,2019-06-22,rapid
+Yes,Male,18-34,IDR 3-5 million,East Jakarta,2019-06-22,rapid
+Yes,Male,31-50,IDR 10-25 million,East Jakarta,2019-06-23,rapid
+Yes,Male,18-34,more than IDR 25 million,East Jakarta,2019-06-23,rapid
+Yes,Female,18-34,IDR 10-25 million,West Jakarta,2019-06-23,rapid
+Yes,Male,50+,IDR 10-25 million,Central Jakarta,2019-06-23,rapid
+No,Male,18-34,more than IDR 25 million,North Jakarta,2019-06-23,rapid
+No,Male,31-50,IDR 10-25 million,North Jakarta,2019-06-23,rapid
+No,Male,50+,more than IDR 25 million,West Jakarta,2019-06-23,rapid
+No,Male,31-50,less than IDR 3 million,South Jakarta,2019-06-23,rapid
+Yes,Female,18-34,more than IDR 25 million,Central Jakarta,2019-06-23,rapid
+Yes,Male,50+,more than IDR 25 million,South Jakarta,2019-06-23,rapid
+Yes,Male,50+,more than IDR 25 million,Central Jakarta,2019-06-23,rapid
+No,Male,50+,IDR 3-5 million,South Jakarta,2019-06-23,rapid
+Yes,Male,18-34,IDR 5-10 million,Central Jakarta,2019-06-23,rapid
+Yes,Female,50+,IDR 5-10 million,North Jakarta,2019-06-23,rapid
+Yes,Female,18-34,IDR 10-25 million,East Jakarta,2019-06-23,rapid
+No,Female,18-34,more than IDR 25 million,Central Jakarta,2019-06-23,rapid
+No,Male,50+,less than IDR 3 million,West Jakarta,2019-06-24,rapid
+No,Male,18-34,IDR 5-10 million,North Jakarta,2019-06-24,rapid
+No,Male,31-50,IDR 10-25 million,North Jakarta,2019-06-24,rapid
+No,Female,18-34,IDR 10-25 million,South Jakarta,2019-06-24,rapid
+Yes,Male,50+,IDR 3-5 million,Central Jakarta,2019-06-24,rapid
+No,Male,18-34,more than IDR 25 million,West Jakarta,2019-06-24,rapid
+No,Female,50+,IDR 5-10 million,West Jakarta,2019-06-24,rapid
+Yes,Male,18-34,IDR 10-25 million,West Jakarta,2019-06-24,rapid
+No,Female,31-50,more than IDR 25 million,West Jakarta,2019-06-24,rapid
+No,Female,18-34,IDR 10-25 million,East Jakarta,2019-06-24,rapid
+No,Male,18-34,IDR 5-10 million,Central Jakarta,2019-06-24,rapid
+Yes,Male,31-50,more than IDR 25 million,Central Jakarta,2019-06-24,rapid
+No,Female,50+,IDR 3-5 million,South Jakarta,2019-06-24,rapid
+Yes,Female,31-50,less than IDR 3 million,North Jakarta,2019-06-24,rapid
+No,Female,18-34,IDR 5-10 million,East Jakarta,2019-06-24,rapid
+Yes,Female,50+,more than IDR 25 million,West Jakarta,2019-06-24,rapid
+No,Male,50+,less than IDR 3 million,South Jakarta,2019-06-24,rapid
+No,Female,18-34,IDR 3-5 million,North Jakarta,2019-06-24,rapid
+No,Female,50+,IDR 3-5 million,East Jakarta,2019-06-24,rapid
+No,Male,18-34,less than IDR 3 million,Central Jakarta,2019-06-25,rapid
+Yes,Male,50+,IDR 3-5 million,South Jakarta,2019-06-25,rapid
+No,Female,18-34,less than IDR 3 million,South Jakarta,2019-06-25,rapid
+Yes,Male,18-34,IDR 5-10 million,North Jakarta,2019-06-25,rapid
+No,Male,18-34,IDR 10-25 million,South Jakarta,2019-06-25,rapid
+Yes,Male,50+,IDR 10-25 million,South Jakarta,2019-06-25,rapid
+No,Female,31-50,more than IDR 25 million,Central Jakarta,2019-06-25,rapid
+Yes,Female,18-34,more than IDR 25 million,North Jakarta,2019-06-25,rapid
+Yes,Male,18-34,less than IDR 3 million,South Jakarta,2019-06-25,rapid
+No,Male,18-34,IDR 5-10 million,South Jakarta,2019-06-25,rapid
+No,Male,50+,IDR 5-10 million,South Jakarta,2019-06-25,rapid
+No,Female,50+,IDR 10-25 million,East Jakarta,2019-06-25,rapid
+No,Female,50+,more than IDR 25 million,West Jakarta,2019-06-25,rapid
+Yes,Female,18-34,less than IDR 3 million,South Jakarta,2019-06-25,rapid
+No,Female,18-34,more than IDR 25 million,West Jakarta,2019-06-25,rapid
+No,Male,50+,less than IDR 3 million,Central Jakarta,2019-07-05,rapid
+No,Female,50+,more than IDR 25 million,Central Jakarta,2019-07-05,rapid
+Yes,Male,50+,less than IDR 3 million,Central Jakarta,2019-07-05,rapid
+Yes,Male,31-50,more than IDR 25 million,South Jakarta,2019-07-05,rapid
+No,Female,31-50,less than IDR 3 million,Central Jakarta,2019-07-05,rapid
+Yes,Male,18-34,less than IDR 3 million,North Jakarta,2019-07-05,rapid
+Yes,Male,31-50,less than IDR 3 million,East Jakarta,2019-07-05,rapid
+No,Male,18-34,IDR 10-25 million,West Jakarta,2019-07-05,rapid
+Yes,Male,18-34,IDR 10-25 million,South Jakarta,2019-07-05,rapid
+Yes,Female,31-50,IDR 10-25 million,East Jakarta,2019-07-05,rapid
+No,Male,31-50,IDR 10-25 million,West Jakarta,2019-07-05,rapid
+Yes,Female,50+,IDR 3-5 million,South Jakarta,2019-07-05,rapid
+Yes,Male,50+,IDR 5-10 million,West Jakarta,2019-07-05,rapid
+No,Male,31-50,IDR 10-25 million,Central Jakarta,2019-07-05,rapid
+No,Male,18-34,less than IDR 3 million,Central Jakarta,2019-07-05,rapid
+No,Male,31-50,less than IDR 3 million,South Jakarta,2019-07-05,rapid
+No,Female,50+,more than IDR 25 million,North Jakarta,2019-07-05,rapid
+Yes,Male,18-34,IDR 10-25 million,Central Jakarta,2019-07-06,rapid
+Yes,Female,31-50,more than IDR 25 million,West Jakarta,2019-07-06,rapid
+No,Male,18-34,less than IDR 3 million,East Jakarta,2019-07-06,rapid
+No,Female,31-50,IDR 3-5 million,West Jakarta,2019-07-06,rapid
+Yes,Male,31-50,IDR 5-10 million,East Jakarta,2019-07-06,rapid
+No,Male,31-50,less than IDR 3 million,West Jakarta,2019-07-06,rapid
+Yes,Female,18-34,less than IDR 3 million,North Jakarta,2019-07-06,rapid
+No,Male,18-34,IDR 3-5 million,West Jakarta,2019-07-06,rapid
+No,Female,31-50,less than IDR 3 million,East Jakarta,2019-07-06,rapid
+No,Male,18-34,IDR 10-25 million,South Jakarta,2019-07-06,rapid
+No,Male,18-34,more than IDR 25 million,Central Jakarta,2019-07-06,rapid
+Yes,Female,18-34,less than IDR 3 million,South Jakarta,2019-07-06,rapid
+No,Female,18-34,less than IDR 3 million,South Jakarta,2019-07-06,rapid
+No,Female,18-34,IDR 3-5 million,Central Jakarta,2019-07-06,rapid
+Yes,Male,50+,IDR 3-5 million,West Jakarta,2019-08-05,rapid
+No,Female,18-34,IDR 5-10 million,South Jakarta,2019-08-05,rapid
+Yes,Female,50+,IDR 5-10 million,East Jakarta,2019-08-05,rapid
+No,Male,18-34,IDR 5-10 million,Central Jakarta,2019-08-05,rapid
+No,Male,18-34,IDR 10-25 million,South Jakarta,2019-08-05,rapid
+Yes,Female,50+,less than IDR 3 million,East Jakarta,2019-08-05,rapid
+No,Male,31-50,IDR 5-10 million,West Jakarta,2019-08-05,rapid
+No,Female,31-50,more than IDR 25 million,West Jakarta,2019-08-05,rapid
+No,Female,50+,less than IDR 3 million,North Jakarta,2019-08-05,rapid
+Yes,Female,31-50,IDR 5-10 million,West Jakarta,2019-08-05,rapid
+Yes,Male,50+,more than IDR 25 million,South Jakarta,2019-08-05,rapid
+Yes,Male,50+,IDR 3-5 million,Central Jakarta,2019-08-05,rapid
+No,Female,50+,more than IDR 25 million,Central Jakarta,2019-08-05,rapid
+No,Male,31-50,IDR 5-10 million,South Jakarta,2019-08-05,rapid
+Yes,Female,50+,IDR 5-10 million,North Jakarta,2019-08-05,rapid
+Yes,Female,31-50,IDR 10-25 million,South Jakarta,2019-08-05,rapid
+Yes,Female,50+,more than IDR 25 million,East Jakarta,2019-08-05,rapid
+Yes,Female,31-50,less than IDR 3 million,East Jakarta,2019-08-05,rapid
+No,Female,50+,less than IDR 3 million,East Jakarta,2019-08-05,rapid
+Yes,Male,31-50,less than IDR 3 million,West Jakarta,2019-08-05,rapid
+Yes,Female,31-50,IDR 10-25 million,West Jakarta,2019-08-06,rapid
+No,Male,18-34,IDR 5-10 million,South Jakarta,2019-08-06,rapid
+Yes,Male,18-34,less than IDR 3 million,East Jakarta,2019-08-06,rapid
+No,Male,18-34,IDR 5-10 million,North Jakarta,2019-08-06,rapid
+Yes,Female,18-34,less than IDR 3 million,North Jakarta,2019-08-06,rapid
+No,Female,31-50,IDR 3-5 million,West Jakarta,2019-08-06,rapid
+No,Male,18-34,less than IDR 3 million,West Jakarta,2019-08-06,rapid
+No,Female,31-50,IDR 3-5 million,North Jakarta,2019-08-06,rapid
+No,Male,18-34,IDR 3-5 million,Central Jakarta,2019-08-06,rapid
+No,Male,31-50,IDR 5-10 million,South Jakarta,2019-08-06,rapid
+No,Female,50+,less than IDR 3 million,South Jakarta,2019-08-06,rapid
+No,Female,31-50,less than IDR 3 million,North Jakarta,2019-08-06,rapid
+Yes,Male,50+,more than IDR 25 million,South Jakarta,2019-08-06,rapid
+Yes,Male,50+,IDR 3-5 million,South Jakarta,2019-08-06,rapid
+Yes,Female,50+,more than IDR 25 million,East Jakarta,2019-08-06,rapid
+Yes,Female,31-50,IDR 3-5 million,East Jakarta,2019-08-06,rapid
+Yes,Male,18-34,IDR 5-10 million,East Jakarta,2019-08-06,rapid
+Yes,Female,50+,less than IDR 3 million,South Jakarta,2019-08-06,rapid
+Yes,Female,50+,more than IDR 25 million,North Jakarta,2019-08-06,rapid
+No,Female,31-50,IDR 5-10 million,North Jakarta,2019-09-05,rapid
+Yes,Female,18-34,IDR 3-5 million,South Jakarta,2019-09-05,rapid
+Yes,Female,31-50,IDR 5-10 million,West Jakarta,2019-09-05,rapid
+No,Male,31-50,IDR 3-5 million,West Jakarta,2019-09-05,rapid
+Yes,Male,50+,more than IDR 25 million,North Jakarta,2019-09-05,rapid
+Yes,Female,31-50,IDR 5-10 million,North Jakarta,2019-09-05,rapid
+Yes,Female,31-50,IDR 10-25 million,West Jakarta,2019-09-05,rapid
+Yes,Female,18-34,less than IDR 3 million,Central Jakarta,2019-09-05,rapid
+Yes,Male,18-34,IDR 10-25 million,East Jakarta,2019-09-05,rapid
+No,Female,50+,IDR 10-25 million,West Jakarta,2019-09-05,rapid
+Yes,Male,31-50,more than IDR 25 million,Central Jakarta,2019-09-06,rapid
+No,Male,50+,IDR 3-5 million,East Jakarta,2019-09-06,rapid
+No,Male,50+,IDR 5-10 million,South Jakarta,2019-09-06,rapid
+Yes,Female,50+,IDR 5-10 million,West Jakarta,2019-09-06,rapid
+Yes,Female,18-34,more than IDR 25 million,West Jakarta,2019-09-06,rapid
+No,Male,31-50,IDR 5-10 million,South Jakarta,2019-09-06,rapid
+Yes,Female,18-34,IDR 5-10 million,North Jakarta,2019-09-06,rapid
+No,Female,31-50,IDR 5-10 million,West Jakarta,2019-09-06,rapid
+Yes,Male,50+,IDR 3-5 million,Central Jakarta,2019-09-06,rapid
+Yes,Female,31-50,more than IDR 25 million,North Jakarta,2019-09-06,rapid
+No,Female,31-50,IDR 5-10 million,North Jakarta,2019-09-06,rapid
+No,Male,18-34,less than IDR 3 million,North Jakarta,2019-09-06,rapid
+Yes,Male,18-34,IDR 10-25 million,Central Jakarta,2019-09-06,rapid
+No,Female,31-50,IDR 3-5 million,East Jakarta,2019-09-06,rapid
+No,Female,50+,less than IDR 3 million,Central Jakarta,2019-09-06,rapid
+No,Female,50+,more than IDR 25 million,South Jakarta,2019-09-06,rapid
+No,Male,50+,more than IDR 25 million,South Jakarta,2019-09-06,rapid
+Yes,Male,18-34,more than IDR 25 million,West Jakarta,2019-09-06,rapid
+No,Male,31-50,IDR 10-25 million,South Jakarta,2019-10-05,rapid
+No,Male,50+,less than IDR 3 million,Central Jakarta,2019-10-05,rapid
+No,Male,31-50,IDR 3-5 million,Central Jakarta,2019-10-05,rapid
+Yes,Female,18-34,IDR 10-25 million,North Jakarta,2019-10-05,rapid
+No,Male,31-50,more than IDR 25 million,North Jakarta,2019-10-05,rapid
+Yes,Male,50+,more than IDR 25 million,North Jakarta,2019-10-05,rapid
+Yes,Female,31-50,more than IDR 25 million,West Jakarta,2019-10-05,rapid
+No,Female,50+,IDR 3-5 million,North Jakarta,2019-10-05,rapid
+No,Female,31-50,IDR 5-10 million,South Jakarta,2019-10-05,rapid
+No,Male,50+,IDR 10-25 million,North Jakarta,2019-10-05,rapid
+Yes,Female,31-50,IDR 3-5 million,Central Jakarta,2019-10-05,rapid
+No,Female,50+,IDR 5-10 million,North Jakarta,2019-10-05,rapid
+Yes,Male,50+,less than IDR 3 million,Central Jakarta,2019-10-05,rapid
+Yes,Male,18-34,more than IDR 25 million,South Jakarta,2019-10-05,rapid
+Yes,Female,31-50,less than IDR 3 million,South Jakarta,2019-10-05,rapid
+Yes,Female,18-34,IDR 10-25 million,West Jakarta,2019-10-05,rapid
+Yes,Female,50+,IDR 10-25 million,North Jakarta,2019-10-05,rapid
+No,Female,18-34,IDR 10-25 million,South Jakarta,2019-10-05,rapid
+Yes,Female,50+,IDR 5-10 million,South Jakarta,2019-10-06,rapid
+No,Female,18-34,IDR 3-5 million,North Jakarta,2019-10-06,rapid
+No,Male,31-50,less than IDR 3 million,South Jakarta,2019-10-06,rapid
+Yes,Male,50+,more than IDR 25 million,Central Jakarta,2019-10-06,rapid
+No,Male,31-50,IDR 3-5 million,South Jakarta,2019-10-06,rapid
+No,Male,50+,more than IDR 25 million,North Jakarta,2019-10-06,rapid
+No,Female,18-34,IDR 10-25 million,Central Jakarta,2019-10-06,rapid
+No,Female,18-34,IDR 10-25 million,North Jakarta,2019-10-06,rapid
+No,Male,50+,less than IDR 3 million,East Jakarta,2019-10-06,rapid
+No,Male,31-50,more than IDR 25 million,East Jakarta,2019-10-06,rapid
+Yes,Male,31-50,IDR 3-5 million,Central Jakarta,2019-10-06,rapid
+No,Female,18-34,IDR 5-10 million,South Jakarta,2019-10-06,rapid
+Yes,Male,18-34,IDR 3-5 million,North Jakarta,2019-10-06,rapid
+No,Male,50+,less than IDR 3 million,West Jakarta,2019-10-06,rapid
+Yes,Male,18-34,IDR 3-5 million,East Jakarta,2019-11-05,rapid
+No,Female,18-34,less than IDR 3 million,West Jakarta,2019-11-05,rapid
+No,Male,50+,more than IDR 25 million,South Jakarta,2019-11-05,rapid
+No,Female,31-50,less than IDR 3 million,South Jakarta,2019-11-05,rapid
+Yes,Male,31-50,IDR 3-5 million,South Jakarta,2019-11-05,rapid
+No,Female,31-50,less than IDR 3 million,West Jakarta,2019-11-05,rapid
+No,Female,31-50,IDR 5-10 million,Central Jakarta,2019-11-05,rapid
+No,Female,50+,IDR 5-10 million,East Jakarta,2019-11-05,rapid
+No,Male,18-34,IDR 10-25 million,East Jakarta,2019-11-05,rapid
+Yes,Female,31-50,IDR 5-10 million,Central Jakarta,2019-11-05,rapid
+Yes,Female,18-34,IDR 3-5 million,Central Jakarta,2019-11-05,rapid
+No,Male,31-50,less than IDR 3 million,West Jakarta,2019-11-05,rapid
+Yes,Male,31-50,IDR 10-25 million,Central Jakarta,2019-11-05,rapid
+No,Female,50+,IDR 10-25 million,East Jakarta,2019-11-05,rapid
+Yes,Male,50+,IDR 10-25 million,Central Jakarta,2019-11-05,rapid
+Yes,Female,50+,IDR 5-10 million,East Jakarta,2019-11-05,rapid
+No,Male,18-34,more than IDR 25 million,West Jakarta,2019-11-05,rapid
+Yes,Male,18-34,IDR 3-5 million,South Jakarta,2019-11-05,rapid
+Yes,Female,50+,more than IDR 25 million,Central Jakarta,2019-11-05,rapid
+Yes,Female,50+,IDR 3-5 million,Central Jakarta,2019-11-05,rapid
+Yes,Female,31-50,IDR 3-5 million,Central Jakarta,2019-11-06,rapid
+Yes,Male,50+,less than IDR 3 million,South Jakarta,2019-11-06,rapid
+Yes,Female,31-50,IDR 5-10 million,Central Jakarta,2019-11-06,rapid
+Yes,Male,18-34,less than IDR 3 million,Central Jakarta,2019-11-06,rapid
+No,Female,31-50,IDR 3-5 million,East Jakarta,2019-11-06,rapid
+No,Female,18-34,IDR 10-25 million,East Jakarta,2019-11-06,rapid
+No,Male,31-50,IDR 10-25 million,South Jakarta,2019-11-06,rapid
+No,Male,50+,IDR 5-10 million,South Jakarta,2019-11-06,rapid
+No,Female,50+,less than IDR 3 million,East Jakarta,2019-11-06,rapid
+Yes,Female,18-34,IDR 3-5 million,West Jakarta,2019-11-06,rapid
+Yes,Female,50+,IDR 5-10 million,South Jakarta,2019-11-06,rapid
+Yes,Male,18-34,more than IDR 25 million,East Jakarta,2019-11-06,rapid
+Yes,Female,50+,less than IDR 3 million,Central Jakarta,2019-11-06,rapid
+No,Female,31-50,IDR 3-5 million,South Jakarta,2019-12-05,rapid
+Yes,Male,18-34,IDR 10-25 million,North Jakarta,2019-12-05,rapid
+No,Female,31-50,IDR 10-25 million,Central Jakarta,2019-12-05,rapid
+No,Female,18-34,IDR 5-10 million,Central Jakarta,2019-12-05,rapid
+Yes,Male,31-50,IDR 10-25 million,Central Jakarta,2019-12-05,rapid
+Yes,Male,31-50,IDR 10-25 million,West Jakarta,2019-12-05,rapid
+No,Male,31-50,IDR 3-5 million,Central Jakarta,2019-12-05,rapid
+No,Male,18-34,less than IDR 3 million,North Jakarta,2019-12-05,rapid
+No,Female,18-34,IDR 10-25 million,North Jakarta,2019-12-05,rapid
+Yes,Male,18-34,IDR 3-5 million,East Jakarta,2019-12-05,rapid
+Yes,Female,31-50,less than IDR 3 million,Central Jakarta,2019-12-05,rapid
+No,Male,50+,IDR 10-25 million,West Jakarta,2019-12-05,rapid
+No,Male,31-50,less than IDR 3 million,North Jakarta,2019-12-05,rapid
+No,Female,18-34,more than IDR 25 million,East Jakarta,2019-12-05,rapid
+No,Female,50+,less than IDR 3 million,South Jakarta,2019-12-06,rapid
+No,Male,18-34,more than IDR 25 million,West Jakarta,2019-12-06,rapid
+Yes,Female,18-34,IDR 10-25 million,South Jakarta,2019-12-06,rapid
+Yes,Male,50+,IDR 10-25 million,South Jakarta,2019-12-06,rapid
+No,Male,18-34,IDR 5-10 million,North Jakarta,2019-12-06,rapid
+Yes,Male,18-34,IDR 3-5 million,East Jakarta,2019-12-06,rapid
+Yes,Female,31-50,IDR 10-25 million,East Jakarta,2019-12-06,rapid
+No,Female,18-34,less than IDR 3 million,West Jakarta,2019-12-06,rapid
+No,Male,18-34,less than IDR 3 million,North Jakarta,2019-12-06,rapid
+No,Male,31-50,IDR 5-10 million,Central Jakarta,2019-12-06,rapid
+No,Male,50+,IDR 3-5 million,Central Jakarta,2019-12-06,rapid
+No,Male,18-34,less than IDR 3 million,South Jakarta,2019-12-06,rapid
+Yes,Male,31-50,IDR 3-5 million,North Jakarta,2019-12-06,rapid
+No,Female,31-50,IDR 5-10 million,South Jakarta,2019-12-06,rapid
+Yes,Male,18-34,IDR 3-5 million,North Jakarta,2019-12-06,rapid
+Yes,Female,50+,IDR 3-5 million,North Jakarta,2019-12-06,rapid
+Yes,Female,18-34,more than IDR 25 million,East Jakarta,2019-12-06,rapid
+Yes,Female,18-34,IDR 10-25 million,West Jakarta,2019-12-06,rapid
+Yes,Male,18-34,more than IDR 25 million,East Jakarta,2019-12-06,rapid
+No,Male,18-34,IDR 10-25 million,South Jakarta,2019-12-06,rapid
+Yes,Male,18-34,IDR 5-10 million,East Jakarta,2019-12-06,rapid
+No,Male,31-50,IDR 3-5 million,Central Jakarta,2019-12-06,rapid
+No,Female,18-34,IDR 5-10 million,West Jakarta,2019-12-06,rapid
+Yes,Male,50+,IDR 5-10 million,Central Jakarta,2019-12-06,rapid
+Yes,Male,18-34,IDR 10-25 million,South Jakarta,2019-12-06,rapid
+No,Female,50+,more than IDR 25 million,East Jakarta,2020-01-05,pcr
+No,Female,31-50,less than IDR 3 million,East Jakarta,2020-01-05,pcr
+No,Male,31-50,IDR 10-25 million,South Jakarta,2020-01-05,pcr
+No,Male,31-50,more than IDR 25 million,East Jakarta,2020-01-05,pcr
+No,Female,50+,IDR 10-25 million,West Jakarta,2020-01-05,pcr
+No,Female,18-34,less than IDR 3 million,South Jakarta,2020-01-05,pcr
+No,Male,31-50,IDR 3-5 million,West Jakarta,2020-01-05,pcr
+No,Female,31-50,less than IDR 3 million,North Jakarta,2020-01-05,pcr
+No,Male,50+,IDR 5-10 million,Central Jakarta,2020-01-05,pcr
+No,Female,50+,less than IDR 3 million,East Jakarta,2020-01-05,pcr
+Yes,Male,50+,more than IDR 25 million,Central Jakarta,2020-01-05,pcr
+No,Female,31-50,less than IDR 3 million,Central Jakarta,2020-01-05,pcr
+Yes,Female,50+,IDR 10-25 million,North Jakarta,2020-01-05,pcr
+Yes,Male,18-34,more than IDR 25 million,East Jakarta,2020-01-05,pcr
+No,Male,18-34,IDR 10-25 million,East Jakarta,2020-01-05,pcr
+No,Male,18-34,IDR 3-5 million,Central Jakarta,2020-01-05,pcr
+No,Female,18-34,less than IDR 3 million,West Jakarta,2020-01-05,pcr
+Yes,Female,31-50,IDR 10-25 million,Central Jakarta,2020-01-05,pcr
+No,Female,31-50,IDR 10-25 million,South Jakarta,2020-01-05,pcr
+Yes,Female,18-34,more than IDR 25 million,Central Jakarta,2020-01-05,pcr
+No,Female,18-34,IDR 5-10 million,South Jakarta,2020-01-05,pcr
+Yes,Male,50+,IDR 10-25 million,East Jakarta,2020-01-05,pcr
+Yes,Female,31-50,IDR 10-25 million,South Jakarta,2020-01-05,pcr
+No,Male,18-34,IDR 10-25 million,South Jakarta,2020-01-05,pcr
+No,Male,50+,IDR 5-10 million,West Jakarta,2020-01-05,pcr
+Yes,Male,31-50,IDR 5-10 million,South Jakarta,2020-01-06,pcr
+Yes,Female,31-50,less than IDR 3 million,South Jakarta,2020-01-06,pcr
+No,Female,31-50,IDR 5-10 million,West Jakarta,2020-01-06,pcr
+No,Male,31-50,more than IDR 25 million,East Jakarta,2020-01-06,pcr
+Yes,Male,18-34,IDR 10-25 million,Central Jakarta,2020-01-06,pcr
+No,Female,50+,IDR 3-5 million,Central Jakarta,2020-01-06,pcr
+Yes,Male,18-34,less than IDR 3 million,South Jakarta,2020-01-06,pcr
+No,Female,50+,IDR 5-10 million,South Jakarta,2020-01-06,pcr
+No,Male,31-50,more than IDR 25 million,Central Jakarta,2020-01-06,pcr
+No,Male,18-34,more than IDR 25 million,East Jakarta,2020-01-06,pcr
+Yes,Male,50+,IDR 5-10 million,East Jakarta,2020-01-06,pcr
+Yes,Male,50+,less than IDR 3 million,West Jakarta,2020-01-06,pcr
+Yes,Female,50+,IDR 3-5 million,South Jakarta,2020-01-06,pcr
+Yes,Female,18-34,IDR 5-10 million,Central Jakarta,2020-01-06,pcr
+Yes,Male,18-34,more than IDR 25 million,South Jakarta,2020-01-06,pcr
+No,Female,18-34,IDR 3-5 million,South Jakarta,2020-01-06,pcr
+No,Male,50+,IDR 5-10 million,East Jakarta,2020-01-06,pcr
+No,Female,31-50,IDR 10-25 million,Central Jakarta,2020-01-06,pcr
+No,Male,50+,more than IDR 25 million,North Jakarta,2020-02-05,pcr
+Yes,Male,18-34,IDR 3-5 million,West Jakarta,2020-02-05,pcr
+Yes,Female,18-34,IDR 10-25 million,Central Jakarta,2020-02-05,pcr
+No,Male,50+,IDR 3-5 million,South Jakarta,2020-02-05,pcr
+No,Female,31-50,IDR 10-25 million,South Jakarta,2020-02-05,pcr
+No,Male,31-50,less than IDR 3 million,West Jakarta,2020-02-05,pcr
+No,Female,50+,IDR 10-25 million,Central Jakarta,2020-02-05,pcr
+No,Female,31-50,IDR 3-5 million,East Jakarta,2020-02-05,pcr
+Yes,Female,50+,IDR 3-5 million,West Jakarta,2020-02-05,pcr
+No,Male,31-50,more than IDR 25 million,South Jakarta,2020-02-05,pcr
+Yes,Female,50+,more than IDR 25 million,Central Jakarta,2020-02-05,pcr
+No,Male,50+,more than IDR 25 million,South Jakarta,2020-02-05,pcr
+Yes,Male,18-34,IDR 5-10 million,West Jakarta,2020-02-05,pcr
+No,Male,50+,IDR 10-25 million,East Jakarta,2020-02-05,pcr
+No,Male,50+,IDR 3-5 million,West Jakarta,2020-02-05,pcr
+Yes,Female,50+,more than IDR 25 million,East Jakarta,2020-02-05,pcr
+No,Male,50+,more than IDR 25 million,West Jakarta,2020-02-05,pcr
+No,Male,18-34,more than IDR 25 million,West Jakarta,2020-02-05,pcr
+No,Female,18-34,IDR 5-10 million,Central Jakarta,2020-02-05,pcr
+No,Female,31-50,IDR 10-25 million,West Jakarta,2020-02-05,pcr
+Yes,Female,18-34,less than IDR 3 million,North Jakarta,2020-02-05,pcr
+No,Female,31-50,less than IDR 3 million,Central Jakarta,2020-02-05,pcr
+Yes,Male,18-34,IDR 5-10 million,Central Jakarta,2020-02-05,pcr
+No,Female,18-34,less than IDR 3 million,South Jakarta,2020-02-05,pcr
+Yes,Male,31-50,IDR 3-5 million,East Jakarta,2020-02-05,pcr
+Yes,Male,50+,IDR 3-5 million,West Jakarta,2020-02-05,pcr
+No,Male,50+,less than IDR 3 million,South Jakarta,2020-02-06,pcr
+Yes,Female,31-50,more than IDR 25 million,East Jakarta,2020-02-06,pcr
+No,Male,50+,more than IDR 25 million,West Jakarta,2020-02-06,pcr
+Yes,Female,31-50,IDR 10-25 million,West Jakarta,2020-02-06,pcr
+Yes,Male,50+,IDR 10-25 million,North Jakarta,2020-02-06,pcr
+Yes,Female,31-50,IDR 10-25 million,Central Jakarta,2020-02-06,pcr
+No,Male,50+,less than IDR 3 million,West Jakarta,2020-02-06,pcr
+Yes,Male,50+,IDR 10-25 million,West Jakarta,2020-02-06,pcr
+No,Female,31-50,IDR 10-25 million,East Jakarta,2020-02-06,pcr
+Yes,Male,18-34,IDR 3-5 million,North Jakarta,2020-02-06,pcr
+No,Male,18-34,IDR 5-10 million,Central Jakarta,2020-02-06,pcr
+Yes,Female,31-50,less than IDR 3 million,Central Jakarta,2020-02-06,pcr
+Yes,Female,50+,less than IDR 3 million,Central Jakarta,2020-02-06,pcr
+No,Male,31-50,IDR 3-5 million,South Jakarta,2020-02-06,pcr
+Yes,Male,18-34,IDR 10-25 million,North Jakarta,2020-02-06,pcr
+Yes,Male,31-50,less than IDR 3 million,West Jakarta,2020-02-06,pcr
+Yes,Male,31-50,IDR 5-10 million,South Jakarta,2020-02-06,pcr
+Yes,Female,50+,IDR 3-5 million,West Jakarta,2020-02-06,pcr
+No,Male,18-34,IDR 10-25 million,North Jakarta,2020-02-06,pcr
+No,Male,50+,more than IDR 25 million,South Jakarta,2020-02-06,pcr
+Yes,Male,31-50,more than IDR 25 million,North Jakarta,2020-02-06,pcr
+Yes,Male,18-34,more than IDR 25 million,West Jakarta,2020-03-05,pcr
+Yes,Female,50+,IDR 3-5 million,Central Jakarta,2020-03-05,pcr
+No,Male,18-34,IDR 3-5 million,West Jakarta,2020-03-05,pcr
+Yes,Male,31-50,IDR 10-25 million,Central Jakarta,2020-03-05,pcr
+Yes,Male,18-34,IDR 3-5 million,East Jakarta,2020-03-05,pcr
+Yes,Male,31-50,IDR 5-10 million,East Jakarta,2020-03-05,pcr
+Yes,Male,50+,IDR 10-25 million,West Jakarta,2020-03-05,pcr
+Yes,Female,31-50,IDR 10-25 million,South Jakarta,2020-03-05,pcr
+No,Female,50+,IDR 3-5 million,South Jakarta,2020-03-05,pcr
+Yes,Male,31-50,IDR 5-10 million,Central Jakarta,2020-03-05,pcr
+No,Female,31-50,IDR 5-10 million,Central Jakarta,2020-03-05,pcr
+Yes,Male,18-34,IDR 10-25 million,South Jakarta,2020-03-05,pcr
+No,Female,50+,IDR 3-5 million,East Jakarta,2020-03-05,pcr
+No,Female,31-50,less than IDR 3 million,East Jakarta,2020-03-05,pcr
+Yes,Male,31-50,more than IDR 25 million,Central Jakarta,2020-03-05,pcr
+Yes,Female,18-34,IDR 5-10 million,East Jakarta,2020-03-05,pcr
+Yes,Female,18-34,IDR 5-10 million,South Jakarta,2020-03-06,pcr
+No,Male,18-34,IDR 10-25 million,East Jakarta,2020-03-06,pcr
+Yes,Male,31-50,less than IDR 3 million,North Jakarta,2020-03-06,pcr
+Yes,Male,31-50,IDR 3-5 million,South Jakarta,2020-03-06,pcr
+Yes,Female,18-34,less than IDR 3 million,North Jakarta,2020-03-06,pcr
+Yes,Male,31-50,IDR 5-10 million,South Jakarta,2020-03-06,pcr
+Yes,Male,18-34,IDR 3-5 million,Central Jakarta,2020-03-06,pcr
+No,Male,31-50,IDR 3-5 million,Central Jakarta,2020-03-06,pcr
+Yes,Female,18-34,more than IDR 25 million,Central Jakarta,2020-03-06,pcr
+Yes,Male,50+,IDR 5-10 million,South Jakarta,2020-03-06,pcr
+No,Female,31-50,IDR 10-25 million,East Jakarta,2020-03-06,pcr
+No,Male,31-50,IDR 3-5 million,South Jakarta,2020-04-05,pcr
+Yes,Male,31-50,less than IDR 3 million,Central Jakarta,2020-04-05,pcr
+Yes,Male,50+,more than IDR 25 million,West Jakarta,2020-04-05,pcr
+Yes,Female,50+,IDR 5-10 million,East Jakarta,2020-04-05,pcr
+No,Female,31-50,IDR 10-25 million,East Jakarta,2020-04-05,pcr
+Yes,Male,18-34,IDR 5-10 million,North Jakarta,2020-04-05,pcr
+No,Female,31-50,IDR 5-10 million,North Jakarta,2020-04-05,pcr
+No,Male,31-50,IDR 10-25 million,South Jakarta,2020-04-05,pcr
+No,Male,50+,IDR 5-10 million,West Jakarta,2020-04-05,pcr
+Yes,Male,50+,IDR 3-5 million,North Jakarta,2020-04-05,pcr
+No,Male,50+,less than IDR 3 million,East Jakarta,2020-04-05,pcr
+No,Female,18-34,less than IDR 3 million,West Jakarta,2020-04-05,pcr
+No,Male,18-34,IDR 5-10 million,South Jakarta,2020-04-05,pcr
+Yes,Male,18-34,IDR 3-5 million,East Jakarta,2020-04-05,pcr
+No,Female,18-34,IDR 3-5 million,Central Jakarta,2020-04-05,pcr
+Yes,Male,31-50,IDR 5-10 million,Central Jakarta,2020-04-05,pcr
+Yes,Male,18-34,less than IDR 3 million,West Jakarta,2020-04-06,pcr
+No,Male,50+,less than IDR 3 million,West Jakarta,2020-04-06,pcr
+Yes,Female,31-50,IDR 3-5 million,North Jakarta,2020-04-06,pcr
+No,Female,31-50,IDR 3-5 million,South Jakarta,2020-04-06,pcr
+No,Female,18-34,more than IDR 25 million,West Jakarta,2020-04-06,pcr
+No,Male,18-34,IDR 5-10 million,Central Jakarta,2020-04-06,pcr
+No,Female,18-34,IDR 3-5 million,Central Jakarta,2020-04-06,pcr
+Yes,Female,31-50,more than IDR 25 million,North Jakarta,2020-04-06,pcr
+No,Female,31-50,IDR 3-5 million,North Jakarta,2020-04-06,pcr
+No,Female,31-50,IDR 5-10 million,South Jakarta,2020-04-06,pcr
+Yes,Female,31-50,IDR 3-5 million,East Jakarta,2020-04-06,pcr
+Yes,Male,50+,more than IDR 25 million,West Jakarta,2020-04-06,pcr
+Yes,Female,31-50,more than IDR 25 million,East Jakarta,2020-04-06,pcr
+No,Male,31-50,IDR 3-5 million,North Jakarta,2020-04-06,pcr
+No,Male,18-34,IDR 3-5 million,North Jakarta,2020-04-06,pcr
+No,Male,31-50,IDR 10-25 million,East Jakarta,2020-04-06,pcr
+No,Male,18-34,less than IDR 3 million,East Jakarta,2020-04-06,pcr
+Yes,Male,50+,IDR 5-10 million,East Jakarta,2020-04-06,pcr
+Yes,Male,18-34,more than IDR 25 million,East Jakarta,2020-04-06,pcr
+No,Female,18-34,less than IDR 3 million,North Jakarta,2020-04-06,pcr
+Yes,Male,18-34,IDR 5-10 million,West Jakarta,2020-05-05,pcr
+Yes,Female,31-50,IDR 10-25 million,Central Jakarta,2020-05-05,pcr
+Yes,Male,50+,more than IDR 25 million,South Jakarta,2020-05-05,pcr
+No,Female,50+,IDR 3-5 million,Central Jakarta,2020-05-05,pcr
+No,Male,18-34,IDR 10-25 million,West Jakarta,2020-05-05,pcr
+No,Female,31-50,IDR 10-25 million,South Jakarta,2020-05-05,pcr
+Yes,Male,50+,IDR 3-5 million,Central Jakarta,2020-05-05,pcr
+No,Male,50+,IDR 3-5 million,East Jakarta,2020-05-05,pcr
+No,Female,18-34,IDR 5-10 million,Central Jakarta,2020-05-05,pcr
+No,Female,18-34,IDR 3-5 million,South Jakarta,2020-05-05,pcr
+No,Male,50+,less than IDR 3 million,Central Jakarta,2020-05-05,pcr
+No,Male,50+,IDR 3-5 million,Central Jakarta,2020-05-05,pcr
+Yes,Male,18-34,more than IDR 25 million,Central Jakarta,2020-05-05,pcr
+No,Male,50+,IDR 10-25 million,West Jakarta,2020-05-05,pcr
+Yes,Male,18-34,less than IDR 3 million,West Jakarta,2020-05-05,pcr
+No,Male,31-50,less than IDR 3 million,South Jakarta,2020-05-05,pcr
+No,Male,31-50,more than IDR 25 million,East Jakarta,2020-05-05,pcr
+Yes,Male,31-50,IDR 3-5 million,East Jakarta,2020-05-05,pcr
+No,Female,31-50,less than IDR 3 million,South Jakarta,2020-05-05,pcr
+Yes,Male,50+,IDR 3-5 million,East Jakarta,2020-05-05,pcr
+No,Male,31-50,more than IDR 25 million,South Jakarta,2020-05-05,pcr
+No,Female,18-34,IDR 10-25 million,Central Jakarta,2020-05-05,pcr
+No,Female,31-50,IDR 10-25 million,Central Jakarta,2020-05-05,pcr
+Yes,Female,18-34,more than IDR 25 million,North Jakarta,2020-05-05,pcr
+No,Male,31-50,IDR 3-5 million,North Jakarta,2020-05-05,pcr
+No,Female,18-34,less than IDR 3 million,West Jakarta,2020-05-05,pcr
+No,Female,18-34,IDR 5-10 million,South Jakarta,2020-05-05,pcr
+No,Female,31-50,less than IDR 3 million,North Jakarta,2020-05-05,pcr
+Yes,Female,50+,IDR 5-10 million,East Jakarta,2020-05-05,pcr
+Yes,Female,18-34,less than IDR 3 million,Central Jakarta,2020-05-05,pcr
+No,Female,18-34,IDR 5-10 million,North Jakarta,2020-05-05,pcr
+Yes,Male,18-34,IDR 10-25 million,South Jakarta,2020-05-05,pcr
+No,Male,18-34,IDR 10-25 million,Central Jakarta,2020-05-05,pcr
+No,Male,18-34,IDR 3-5 million,North Jakarta,2020-05-05,pcr
+Yes,Male,50+,less than IDR 3 million,South Jakarta,2020-05-05,pcr
+Yes,Female,18-34,IDR 5-10 million,East Jakarta,2020-05-05,pcr
+Yes,Female,50+,more than IDR 25 million,East Jakarta,2020-05-05,pcr
+Yes,Male,31-50,less than IDR 3 million,North Jakarta,2020-05-05,pcr
+Yes,Male,18-34,IDR 3-5 million,West Jakarta,2020-05-05,pcr
+No,Male,31-50,IDR 3-5 million,North Jakarta,2020-05-06,pcr
+Yes,Female,31-50,more than IDR 25 million,East Jakarta,2020-05-06,pcr
+Yes,Female,31-50,IDR 3-5 million,East Jakarta,2020-05-06,pcr
+Yes,Female,50+,more than IDR 25 million,West Jakarta,2020-05-06,pcr
+No,Male,50+,IDR 3-5 million,East Jakarta,2020-05-06,pcr
+Yes,Male,31-50,IDR 3-5 million,West Jakarta,2020-05-06,pcr
+Yes,Female,50+,less than IDR 3 million,Central Jakarta,2020-05-06,pcr
+No,Female,50+,IDR 5-10 million,South Jakarta,2020-05-06,pcr
+No,Male,18-34,IDR 3-5 million,East Jakarta,2020-05-06,pcr
+No,Female,18-34,IDR 3-5 million,South Jakarta,2020-05-06,pcr
+Yes,Female,18-34,IDR 5-10 million,North Jakarta,2020-05-06,pcr
+Yes,Female,50+,IDR 5-10 million,South Jakarta,2020-05-06,pcr
+Yes,Female,18-34,less than IDR 3 million,North Jakarta,2020-05-06,pcr
+No,Female,18-34,more than IDR 25 million,West Jakarta,2020-05-06,pcr
+No,Male,18-34,IDR 5-10 million,South Jakarta,2020-05-06,pcr
+Yes,Male,50+,more than IDR 25 million,West Jakarta,2020-05-06,pcr
+No,Female,18-34,IDR 3-5 million,North Jakarta,2020-05-06,pcr
+No,Male,31-50,less than IDR 3 million,East Jakarta,2020-05-13,pcr
+No,Male,18-34,IDR 10-25 million,South Jakarta,2020-05-13,pcr
+Yes,Male,18-34,less than IDR 3 million,South Jakarta,2020-05-13,pcr
+No,Female,31-50,IDR 3-5 million,West Jakarta,2020-05-13,pcr
+No,Male,18-34,less than IDR 3 million,North Jakarta,2020-05-13,pcr
+No,Male,18-34,more than IDR 25 million,Central Jakarta,2020-05-13,pcr
+No,Male,18-34,IDR 5-10 million,South Jakarta,2020-05-13,pcr
+Yes,Female,18-34,IDR 3-5 million,Central Jakarta,2020-05-13,pcr
+Yes,Female,18-34,IDR 5-10 million,East Jakarta,2020-05-13,pcr
+Yes,Male,18-34,less than IDR 3 million,West Jakarta,2020-05-13,pcr
+No,Female,18-34,IDR 5-10 million,West Jakarta,2020-05-13,pcr
+No,Male,18-34,IDR 5-10 million,South Jakarta,2020-05-14,pcr
+No,Female,31-50,IDR 5-10 million,South Jakarta,2020-05-14,pcr
+No,Female,50+,less than IDR 3 million,East Jakarta,2020-05-14,pcr
+No,Male,50+,IDR 10-25 million,East Jakarta,2020-05-14,pcr
+No,Female,50+,IDR 3-5 million,East Jakarta,2020-05-14,pcr
+No,Male,31-50,IDR 10-25 million,West Jakarta,2020-05-14,pcr
+No,Male,50+,more than IDR 25 million,South Jakarta,2020-05-14,pcr
+Yes,Female,50+,more than IDR 25 million,West Jakarta,2020-05-14,pcr
+Yes,Male,31-50,less than IDR 3 million,North Jakarta,2020-05-14,pcr
+Yes,Male,31-50,more than IDR 25 million,East Jakarta,2020-05-14,pcr
+Yes,Female,50+,IDR 10-25 million,South Jakarta,2020-05-14,pcr
+Yes,Female,18-34,less than IDR 3 million,Central Jakarta,2020-05-14,pcr
+No,Female,31-50,IDR 3-5 million,South Jakarta,2020-05-14,pcr
+Yes,Female,31-50,IDR 3-5 million,West Jakarta,2020-05-14,pcr
+No,Male,31-50,IDR 3-5 million,South Jakarta,2020-05-14,pcr
+Yes,Female,18-34,IDR 3-5 million,Central Jakarta,2020-05-14,pcr
+Yes,Male,50+,IDR 5-10 million,South Jakarta,2020-05-14,pcr
+Yes,Male,31-50,IDR 3-5 million,West Jakarta,2020-05-14,pcr
+Yes,Female,18-34,less than IDR 3 million,West Jakarta,2020-05-14,pcr
+No,Female,18-34,IDR 3-5 million,South Jakarta,2020-05-15,pcr
+No,Male,50+,IDR 3-5 million,South Jakarta,2020-05-15,pcr
+Yes,Female,18-34,IDR 5-10 million,West Jakarta,2020-05-15,pcr
+Yes,Male,31-50,less than IDR 3 million,Central Jakarta,2020-05-15,pcr
+No,Male,50+,IDR 5-10 million,North Jakarta,2020-05-15,pcr
+No,Female,50+,IDR 10-25 million,North Jakarta,2020-05-15,pcr
+Yes,Male,18-34,more than IDR 25 million,East Jakarta,2020-05-15,pcr
+Yes,Male,31-50,IDR 5-10 million,East Jakarta,2020-05-15,pcr
+No,Female,18-34,less than IDR 3 million,West Jakarta,2020-05-15,pcr
+Yes,Female,18-34,more than IDR 25 million,West Jakarta,2020-05-15,pcr
+Yes,Female,50+,less than IDR 3 million,East Jakarta,2020-05-15,pcr
+No,Female,50+,IDR 5-10 million,West Jakarta,2020-05-15,pcr
+No,Female,31-50,less than IDR 3 million,Central Jakarta,2020-05-15,pcr
+Yes,Male,18-34,more than IDR 25 million,South Jakarta,2020-05-15,pcr
+No,Male,31-50,more than IDR 25 million,South Jakarta,2020-05-15,pcr
+Yes,Female,18-34,IDR 5-10 million,South Jakarta,2020-05-15,pcr
+No,Female,18-34,IDR 5-10 million,South Jakarta,2020-05-15,pcr
+Yes,Male,31-50,more than IDR 25 million,Central Jakarta,2020-05-15,pcr
+Yes,Male,50+,less than IDR 3 million,Central Jakarta,2020-05-15,pcr
+No,Female,50+,less than IDR 3 million,North Jakarta,2020-05-15,pcr
+No,Female,50+,IDR 10-25 million,West Jakarta,2020-05-15,pcr
+Yes,Male,18-34,IDR 5-10 million,South Jakarta,2020-05-15,pcr
+Yes,Male,50+,IDR 3-5 million,East Jakarta,2020-05-15,pcr
+No,Female,31-50,less than IDR 3 million,Central Jakarta,2020-05-16,pcr
+No,Female,31-50,more than IDR 25 million,North Jakarta,2020-05-16,pcr
+No,Male,50+,less than IDR 3 million,South Jakarta,2020-05-16,pcr
+Yes,Male,31-50,IDR 10-25 million,West Jakarta,2020-05-16,pcr
+No,Male,31-50,less than IDR 3 million,East Jakarta,2020-05-16,pcr
+No,Male,31-50,more than IDR 25 million,South Jakarta,2020-05-16,pcr
+Yes,Male,50+,IDR 3-5 million,South Jakarta,2020-05-16,pcr
+No,Female,18-34,IDR 5-10 million,West Jakarta,2020-05-16,pcr
+No,Male,50+,IDR 10-25 million,West Jakarta,2020-05-16,pcr
+Yes,Male,50+,IDR 3-5 million,Central Jakarta,2020-05-16,pcr
+Yes,Female,50+,IDR 3-5 million,Central Jakarta,2020-05-16,pcr
+Yes,Male,18-34,IDR 3-5 million,North Jakarta,2020-05-16,pcr
+No,Male,50+,more than IDR 25 million,North Jakarta,2020-05-16,pcr
+Yes,Male,18-34,IDR 5-10 million,West Jakarta,2020-05-16,pcr
+No,Male,18-34,IDR 3-5 million,West Jakarta,2020-05-16,pcr
+No,Female,18-34,less than IDR 3 million,North Jakarta,2020-05-16,pcr
+No,Female,50+,IDR 10-25 million,East Jakarta,2020-05-16,pcr
+Yes,Male,50+,less than IDR 3 million,Central Jakarta,2020-05-16,pcr
+No,Male,50+,IDR 5-10 million,Central Jakarta,2020-05-16,pcr
+Yes,Male,50+,less than IDR 3 million,North Jakarta,2020-05-16,pcr
+No,Female,31-50,IDR 10-25 million,West Jakarta,2020-05-16,pcr
+Yes,Male,31-50,more than IDR 25 million,South Jakarta,2020-05-16,pcr
+No,Female,31-50,IDR 10-25 million,North Jakarta,2020-05-17,pcr
+No,Female,50+,IDR 3-5 million,East Jakarta,2020-05-17,pcr
+Yes,Male,18-34,IDR 10-25 million,West Jakarta,2020-05-17,pcr
+Yes,Female,31-50,IDR 10-25 million,East Jakarta,2020-05-17,pcr
+No,Female,50+,more than IDR 25 million,North Jakarta,2020-05-17,pcr
+No,Female,31-50,IDR 5-10 million,West Jakarta,2020-05-17,pcr
+Yes,Male,18-34,IDR 3-5 million,East Jakarta,2020-05-17,pcr
+Yes,Female,31-50,IDR 5-10 million,East Jakarta,2020-05-17,pcr
+No,Female,18-34,IDR 5-10 million,Central Jakarta,2020-05-17,pcr
+Yes,Female,31-50,less than IDR 3 million,West Jakarta,2020-05-17,pcr
+No,Male,18-34,more than IDR 25 million,Central Jakarta,2020-05-17,pcr
+Yes,Male,18-34,more than IDR 25 million,South Jakarta,2020-05-17,pcr
+No,Female,50+,IDR 10-25 million,Central Jakarta,2020-05-17,pcr
+No,Male,50+,IDR 3-5 million,Central Jakarta,2020-05-17,pcr
+No,Female,18-34,less than IDR 3 million,East Jakarta,2020-05-17,pcr
+No,Female,50+,IDR 3-5 million,West Jakarta,2020-05-17,pcr
+No,Male,50+,IDR 5-10 million,Central Jakarta,2020-05-17,pcr
+No,Female,50+,less than IDR 3 million,Central Jakarta,2020-05-17,pcr
+No,Male,18-34,IDR 10-25 million,West Jakarta,2020-05-17,pcr
+Yes,Female,50+,more than IDR 25 million,South Jakarta,2020-05-17,pcr
+No,Female,31-50,IDR 10-25 million,South Jakarta,2020-05-18,pcr
+No,Female,31-50,less than IDR 3 million,Central Jakarta,2020-05-18,pcr
+No,Female,31-50,IDR 10-25 million,East Jakarta,2020-05-18,pcr
+No,Male,31-50,less than IDR 3 million,Central Jakarta,2020-05-18,pcr
+No,Female,31-50,IDR 10-25 million,West Jakarta,2020-05-18,pcr
+Yes,Female,18-34,less than IDR 3 million,North Jakarta,2020-05-18,pcr
+No,Female,50+,less than IDR 3 million,West Jakarta,2020-05-18,pcr
+No,Female,31-50,IDR 5-10 million,West Jakarta,2020-05-18,pcr
+Yes,Female,31-50,IDR 3-5 million,North Jakarta,2020-05-18,pcr
+No,Male,31-50,less than IDR 3 million,West Jakarta,2020-05-18,pcr
+No,Male,18-34,IDR 3-5 million,South Jakarta,2020-05-18,pcr
+No,Male,31-50,IDR 3-5 million,East Jakarta,2020-05-18,pcr
+Yes,Male,31-50,IDR 3-5 million,North Jakarta,2020-05-18,pcr
+No,Male,18-34,IDR 5-10 million,South Jakarta,2020-05-18,pcr
+Yes,Female,18-34,IDR 5-10 million,North Jakarta,2020-05-18,pcr
+Yes,Female,50+,more than IDR 25 million,North Jakarta,2020-05-18,pcr
+No,Female,31-50,IDR 5-10 million,North Jakarta,2020-05-19,pcr
+Yes,Female,31-50,less than IDR 3 million,East Jakarta,2020-05-19,pcr
+Yes,Female,50+,more than IDR 25 million,North Jakarta,2020-05-19,pcr
+No,Female,31-50,IDR 3-5 million,West Jakarta,2020-05-19,pcr
+No,Male,18-34,IDR 10-25 million,North Jakarta,2020-05-19,pcr
+No,Female,31-50,more than IDR 25 million,West Jakarta,2020-05-19,pcr
+Yes,Female,31-50,more than IDR 25 million,North Jakarta,2020-05-19,pcr
+Yes,Female,50+,IDR 10-25 million,Central Jakarta,2020-05-19,pcr
+Yes,Male,50+,IDR 3-5 million,South Jakarta,2020-05-19,pcr
+No,Female,50+,IDR 5-10 million,West Jakarta,2020-05-19,pcr
+No,Female,50+,IDR 5-10 million,Central Jakarta,2020-05-19,pcr
+Yes,Female,18-34,more than IDR 25 million,West Jakarta,2020-05-19,pcr
+Yes,Male,31-50,more than IDR 25 million,Central Jakarta,2020-05-19,pcr
+Yes,Female,18-34,IDR 3-5 million,West Jakarta,2020-05-19,pcr
+Yes,Female,50+,less than IDR 3 million,Central Jakarta,2020-05-20,pcr
+No,Male,18-34,less than IDR 3 million,West Jakarta,2020-05-20,pcr
+No,Female,31-50,IDR 5-10 million,West Jakarta,2020-05-20,pcr
+Yes,Male,50+,more than IDR 25 million,North Jakarta,2020-05-20,pcr
+Yes,Female,18-34,IDR 3-5 million,West Jakarta,2020-05-20,pcr
+No,Male,50+,IDR 3-5 million,West Jakarta,2020-05-20,pcr
+No,Male,18-34,IDR 5-10 million,East Jakarta,2020-05-20,pcr
+Yes,Male,50+,IDR 5-10 million,West Jakarta,2020-05-20,pcr
+No,Male,50+,IDR 10-25 million,East Jakarta,2020-05-20,pcr
+Yes,Female,31-50,IDR 5-10 million,East Jakarta,2020-05-20,pcr
+Yes,Male,31-50,IDR 5-10 million,North Jakarta,2020-05-20,pcr
+Yes,Male,18-34,IDR 3-5 million,South Jakarta,2020-05-20,pcr
+No,Female,18-34,IDR 5-10 million,South Jakarta,2020-05-20,pcr
+Yes,Male,18-34,more than IDR 25 million,East Jakarta,2020-05-20,pcr
+No,Female,31-50,IDR 10-25 million,East Jakarta,2020-05-20,pcr
+Yes,Female,31-50,less than IDR 3 million,Central Jakarta,2020-05-20,pcr
+Yes,Female,31-50,IDR 10-25 million,West Jakarta,2020-05-20,pcr
+Yes,Male,18-34,more than IDR 25 million,North Jakarta,2020-05-20,pcr
+Yes,Male,31-50,IDR 3-5 million,Central Jakarta,2020-05-20,pcr
+No,Male,50+,IDR 3-5 million,South Jakarta,2020-05-20,pcr
+Yes,Male,18-34,IDR 5-10 million,East Jakarta,2020-05-21,pcr
+No,Female,31-50,more than IDR 25 million,East Jakarta,2020-05-21,pcr
+Yes,Male,31-50,IDR 10-25 million,East Jakarta,2020-05-21,pcr
+Yes,Male,31-50,IDR 5-10 million,East Jakarta,2020-05-21,pcr
+No,Female,50+,IDR 10-25 million,Central Jakarta,2020-05-21,pcr
+Yes,Male,18-34,more than IDR 25 million,South Jakarta,2020-05-21,pcr
+No,Male,50+,IDR 10-25 million,South Jakarta,2020-05-21,pcr
+No,Female,18-34,IDR 10-25 million,North Jakarta,2020-05-21,pcr
+Yes,Female,31-50,IDR 5-10 million,South Jakarta,2020-05-21,pcr
+Yes,Female,31-50,more than IDR 25 million,North Jakarta,2020-05-21,pcr
+Yes,Male,18-34,more than IDR 25 million,Central Jakarta,2020-05-21,pcr
+Yes,Male,50+,less than IDR 3 million,Central Jakarta,2020-05-21,pcr
+Yes,Female,31-50,less than IDR 3 million,West Jakarta,2020-05-21,pcr
+Yes,Female,18-34,more than IDR 25 million,South Jakarta,2020-05-21,pcr
+No,Female,50+,more than IDR 25 million,South Jakarta,2020-05-21,pcr
+No,Male,18-34,less than IDR 3 million,East Jakarta,2020-05-21,pcr
+No,Male,18-34,IDR 5-10 million,North Jakarta,2020-05-22,pcr
+Yes,Male,50+,more than IDR 25 million,East Jakarta,2020-05-22,pcr
+Yes,Female,18-34,IDR 10-25 million,West Jakarta,2020-05-22,pcr
+No,Female,31-50,IDR 10-25 million,South Jakarta,2020-05-22,pcr
+No,Male,31-50,IDR 5-10 million,West Jakarta,2020-05-22,pcr
+Yes,Female,18-34,less than IDR 3 million,Central Jakarta,2020-05-22,pcr
+No,Male,50+,more than IDR 25 million,West Jakarta,2020-05-22,pcr
+No,Female,18-34,more than IDR 25 million,Central Jakarta,2020-05-22,pcr
+Yes,Male,50+,IDR 3-5 million,Central Jakarta,2020-05-22,pcr
+No,Male,31-50,less than IDR 3 million,East Jakarta,2020-05-22,pcr
+Yes,Male,50+,more than IDR 25 million,Central Jakarta,2020-05-22,pcr
+Yes,Female,50+,more than IDR 25 million,South Jakarta,2020-05-22,pcr
+Yes,Male,50+,less than IDR 3 million,East Jakarta,2020-05-22,pcr
+Yes,Male,50+,IDR 5-10 million,Central Jakarta,2020-05-22,pcr
+Yes,Male,18-34,IDR 10-25 million,South Jakarta,2020-05-22,pcr
+Yes,Male,50+,IDR 10-25 million,East Jakarta,2020-05-22,pcr
+No,Female,31-50,IDR 10-25 million,North Jakarta,2020-05-23,pcr
+No,Female,31-50,IDR 5-10 million,North Jakarta,2020-05-23,pcr
+Yes,Male,31-50,more than IDR 25 million,North Jakarta,2020-05-23,pcr
+No,Male,31-50,less than IDR 3 million,South Jakarta,2020-05-23,pcr
+No,Male,18-34,less than IDR 3 million,West Jakarta,2020-05-23,pcr
+No,Male,18-34,IDR 3-5 million,Central Jakarta,2020-05-23,pcr
+Yes,Female,50+,IDR 10-25 million,East Jakarta,2020-05-23,pcr
+No,Female,50+,less than IDR 3 million,Central Jakarta,2020-05-23,pcr
+Yes,Male,18-34,more than IDR 25 million,East Jakarta,2020-05-23,pcr
+Yes,Male,31-50,IDR 3-5 million,West Jakarta,2020-05-23,pcr
+No,Male,18-34,less than IDR 3 million,South Jakarta,2020-05-23,pcr
+No,Female,18-34,IDR 5-10 million,South Jakarta,2020-05-23,pcr
+No,Male,31-50,IDR 5-10 million,East Jakarta,2020-05-23,pcr
+No,Female,31-50,less than IDR 3 million,Central Jakarta,2020-05-23,pcr
+Yes,Female,18-34,IDR 5-10 million,North Jakarta,2020-05-23,pcr
+Yes,Female,31-50,less than IDR 3 million,North Jakarta,2020-05-23,pcr
+Yes,Female,18-34,more than IDR 25 million,North Jakarta,2020-05-23,pcr
+No,Male,31-50,more than IDR 25 million,North Jakarta,2020-05-23,pcr
+No,Male,50+,IDR 10-25 million,East Jakarta,2020-05-23,pcr
+No,Female,31-50,IDR 10-25 million,Central Jakarta,2020-05-23,pcr
+No,Male,50+,IDR 5-10 million,East Jakarta,2020-05-23,pcr
+Yes,Female,50+,IDR 5-10 million,South Jakarta,2020-05-23,pcr
+Yes,Female,50+,less than IDR 3 million,South Jakarta,2020-05-23,pcr
+Yes,Female,31-50,IDR 3-5 million,West Jakarta,2020-05-24,pcr
+Yes,Female,18-34,IDR 5-10 million,West Jakarta,2020-05-24,pcr
+Yes,Female,31-50,IDR 3-5 million,Central Jakarta,2020-05-24,pcr
+Yes,Female,31-50,IDR 3-5 million,East Jakarta,2020-05-24,pcr
+No,Female,18-34,IDR 3-5 million,South Jakarta,2020-05-24,pcr
+Yes,Male,31-50,less than IDR 3 million,North Jakarta,2020-05-24,pcr
+Yes,Male,50+,IDR 3-5 million,West Jakarta,2020-05-24,pcr
+No,Male,31-50,IDR 3-5 million,East Jakarta,2020-05-24,pcr
+Yes,Male,31-50,IDR 5-10 million,South Jakarta,2020-05-24,pcr
+No,Female,18-34,IDR 5-10 million,South Jakarta,2020-05-24,pcr
+Yes,Male,18-34,IDR 10-25 million,East Jakarta,2020-05-24,pcr
+No,Female,18-34,IDR 10-25 million,Central Jakarta,2020-05-24,pcr
+Yes,Male,50+,more than IDR 25 million,South Jakarta,2020-05-24,pcr
+Yes,Female,50+,IDR 10-25 million,South Jakarta,2020-05-24,pcr
+Yes,Female,31-50,less than IDR 3 million,Central Jakarta,2020-05-24,pcr
+No,Female,18-34,IDR 5-10 million,West Jakarta,2020-05-24,pcr
+No,Male,18-34,less than IDR 3 million,North Jakarta,2020-05-24,pcr
+No,Female,50+,IDR 10-25 million,South Jakarta,2020-05-24,pcr
+No,Male,50+,less than IDR 3 million,East Jakarta,2020-05-24,pcr
+No,Male,18-34,IDR 5-10 million,South Jakarta,2020-05-24,pcr
+No,Male,31-50,IDR 3-5 million,North Jakarta,2020-05-24,pcr
+No,Male,31-50,more than IDR 25 million,West Jakarta,2020-05-25,pcr
+Yes,Male,50+,IDR 3-5 million,North Jakarta,2020-05-25,pcr
+Yes,Male,31-50,IDR 3-5 million,West Jakarta,2020-05-25,pcr
+Yes,Female,31-50,less than IDR 3 million,East Jakarta,2020-05-25,pcr
+No,Male,50+,IDR 3-5 million,Central Jakarta,2020-05-25,pcr
+No,Male,31-50,IDR 3-5 million,East Jakarta,2020-05-25,pcr
+Yes,Female,18-34,IDR 5-10 million,North Jakarta,2020-05-25,pcr
+Yes,Female,50+,IDR 5-10 million,East Jakarta,2020-05-25,pcr
+No,Male,31-50,IDR 10-25 million,South Jakarta,2020-05-25,pcr
+No,Female,50+,IDR 3-5 million,East Jakarta,2020-05-25,pcr
+Yes,Male,50+,IDR 10-25 million,South Jakarta,2020-05-25,pcr
+Yes,Female,31-50,less than IDR 3 million,South Jakarta,2020-05-25,pcr
+No,Male,18-34,IDR 10-25 million,South Jakarta,2020-05-25,pcr
+No,Female,31-50,less than IDR 3 million,North Jakarta,2020-05-26,pcr
+No,Female,50+,more than IDR 25 million,West Jakarta,2020-05-26,pcr
+No,Male,31-50,IDR 3-5 million,Central Jakarta,2020-05-26,pcr
+No,Female,18-34,IDR 10-25 million,North Jakarta,2020-05-26,pcr
+No,Male,31-50,IDR 3-5 million,South Jakarta,2020-05-26,pcr
+Yes,Female,50+,less than IDR 3 million,North Jakarta,2020-05-26,pcr
+No,Male,50+,less than IDR 3 million,Central Jakarta,2020-05-26,pcr
+Yes,Female,18-34,more than IDR 25 million,West Jakarta,2020-05-26,pcr
+Yes,Male,50+,less than IDR 3 million,South Jakarta,2020-05-26,pcr
+No,Female,18-34,IDR 10-25 million,South Jakarta,2020-05-26,pcr
+No,Male,31-50,IDR 3-5 million,North Jakarta,2020-05-26,pcr
+Yes,Female,31-50,IDR 5-10 million,Central Jakarta,2020-05-26,pcr
+Yes,Male,18-34,IDR 3-5 million,South Jakarta,2020-05-26,pcr
+No,Female,50+,IDR 10-25 million,East Jakarta,2020-05-26,pcr
+Yes,Male,31-50,IDR 3-5 million,South Jakarta,2020-05-26,pcr
+Yes,Male,31-50,IDR 3-5 million,East Jakarta,2020-05-26,pcr
+No,Female,50+,IDR 5-10 million,West Jakarta,2020-05-27,pcr
+No,Male,31-50,less than IDR 3 million,North Jakarta,2020-05-27,pcr
+No,Male,50+,IDR 5-10 million,East Jakarta,2020-05-27,pcr
+No,Female,18-34,IDR 10-25 million,West Jakarta,2020-05-27,pcr
+Yes,Male,31-50,IDR 3-5 million,West Jakarta,2020-05-27,pcr
+Yes,Male,50+,IDR 10-25 million,South Jakarta,2020-05-27,pcr
+No,Female,18-34,more than IDR 25 million,Central Jakarta,2020-05-27,pcr
+Yes,Female,50+,IDR 10-25 million,East Jakarta,2020-05-27,pcr
+Yes,Male,18-34,less than IDR 3 million,East Jakarta,2020-05-27,pcr
+No,Male,31-50,IDR 3-5 million,West Jakarta,2020-05-27,pcr
+No,Female,31-50,IDR 5-10 million,West Jakarta,2020-05-27,pcr
+No,Male,50+,more than IDR 25 million,North Jakarta,2020-05-27,pcr
+No,Female,31-50,less than IDR 3 million,East Jakarta,2020-05-27,pcr
+No,Male,31-50,IDR 3-5 million,Central Jakarta,2020-05-27,pcr
+No,Male,50+,IDR 10-25 million,Central Jakarta,2020-05-27,pcr
+No,Female,50+,more than IDR 25 million,East Jakarta,2020-05-27,pcr
+No,Female,31-50,IDR 10-25 million,East Jakarta,2020-05-27,pcr
+No,Female,31-50,more than IDR 25 million,North Jakarta,2020-05-27,pcr
+No,Female,31-50,IDR 10-25 million,South Jakarta,2020-05-27,pcr
+No,Male,31-50,more than IDR 25 million,South Jakarta,2020-05-27,pcr
+Yes,Male,50+,IDR 5-10 million,East Jakarta,2020-05-27,pcr
+Yes,Female,50+,more than IDR 25 million,Central Jakarta,2020-05-27,pcr
+Yes,Male,31-50,IDR 5-10 million,East Jakarta,2020-05-27,pcr
+No,Female,50+,less than IDR 3 million,West Jakarta,2020-05-27,pcr
+No,Female,31-50,more than IDR 25 million,East Jakarta,2020-05-27,pcr
+No,Female,31-50,less than IDR 3 million,Central Jakarta,2020-05-28,pcr
+Yes,Male,31-50,IDR 10-25 million,Central Jakarta,2020-05-28,pcr
+No,Male,18-34,IDR 5-10 million,East Jakarta,2020-05-28,pcr
+Yes,Female,50+,less than IDR 3 million,South Jakarta,2020-05-28,pcr
+No,Male,18-34,more than IDR 25 million,East Jakarta,2020-05-28,pcr
+Yes,Female,50+,less than IDR 3 million,Central Jakarta,2020-05-28,pcr
+Yes,Female,18-34,IDR 5-10 million,South Jakarta,2020-05-28,pcr
+Yes,Male,31-50,IDR 5-10 million,East Jakarta,2020-05-28,pcr
+No,Male,50+,IDR 10-25 million,East Jakarta,2020-05-28,pcr
+Yes,Female,18-34,IDR 5-10 million,North Jakarta,2020-05-28,pcr
+No,Female,31-50,IDR 5-10 million,South Jakarta,2020-05-28,pcr
+No,Male,31-50,less than IDR 3 million,North Jakarta,2020-05-28,pcr
+No,Female,50+,IDR 10-25 million,East Jakarta,2020-05-28,pcr
+Yes,Male,31-50,less than IDR 3 million,Central Jakarta,2020-05-28,pcr
+Yes,Male,18-34,IDR 3-5 million,Central Jakarta,2020-05-28,pcr
+No,Male,31-50,less than IDR 3 million,West Jakarta,2020-05-28,pcr
+No,Male,18-34,more than IDR 25 million,West Jakarta,2020-05-28,pcr
+Yes,Female,18-34,IDR 10-25 million,East Jakarta,2020-05-28,pcr
+No,Male,18-34,IDR 5-10 million,West Jakarta,2020-05-28,pcr
+Yes,Female,18-34,less than IDR 3 million,West Jakarta,2020-05-28,pcr
+Yes,Male,18-34,IDR 10-25 million,East Jakarta,2020-05-28,pcr
+Yes,Female,31-50,more than IDR 25 million,West Jakarta,2020-05-29,pcr
+Yes,Male,18-34,IDR 10-25 million,Central Jakarta,2020-05-29,pcr
+No,Female,18-34,less than IDR 3 million,Central Jakarta,2020-05-29,pcr
+Yes,Male,31-50,IDR 10-25 million,West Jakarta,2020-05-29,pcr
+No,Female,18-34,IDR 3-5 million,Central Jakarta,2020-05-29,pcr
+No,Male,31-50,more than IDR 25 million,Central Jakarta,2020-05-29,pcr
+Yes,Female,31-50,less than IDR 3 million,South Jakarta,2020-05-29,pcr
+Yes,Male,18-34,IDR 10-25 million,East Jakarta,2020-05-29,pcr
+Yes,Female,18-34,less than IDR 3 million,West Jakarta,2020-05-29,pcr
+Yes,Male,50+,IDR 5-10 million,West Jakarta,2020-05-29,pcr
+No,Male,31-50,IDR 10-25 million,North Jakarta,2020-05-29,pcr
+Yes,Female,50+,more than IDR 25 million,North Jakarta,2020-05-29,pcr
+No,Female,18-34,less than IDR 3 million,East Jakarta,2020-05-29,pcr
+No,Male,31-50,IDR 3-5 million,Central Jakarta,2020-05-29,pcr
+Yes,Male,31-50,IDR 5-10 million,Central Jakarta,2020-05-29,pcr
+Yes,Female,50+,IDR 3-5 million,North Jakarta,2020-05-30,pcr
+No,Male,50+,more than IDR 25 million,West Jakarta,2020-05-30,pcr
+No,Male,18-34,more than IDR 25 million,East Jakarta,2020-05-30,pcr
+No,Male,31-50,IDR 5-10 million,South Jakarta,2020-05-30,pcr
+No,Male,18-34,more than IDR 25 million,West Jakarta,2020-05-30,pcr
+No,Male,50+,IDR 3-5 million,East Jakarta,2020-05-30,pcr
+Yes,Male,18-34,IDR 10-25 million,South Jakarta,2020-05-30,pcr
+No,Male,50+,IDR 5-10 million,North Jakarta,2020-05-30,pcr
+Yes,Male,18-34,IDR 5-10 million,North Jakarta,2020-05-30,pcr
+No,Male,18-34,IDR 5-10 million,East Jakarta,2020-05-30,pcr
+Yes,Male,31-50,IDR 5-10 million,East Jakarta,2020-05-30,pcr
+No,Male,50+,less than IDR 3 million,North Jakarta,2020-05-30,pcr
+Yes,Female,31-50,IDR 5-10 million,North Jakarta,2020-05-30,pcr
+No,Female,18-34,less than IDR 3 million,South Jakarta,2020-05-30,pcr
+Yes,Female,18-34,IDR 5-10 million,Central Jakarta,2020-05-30,pcr
+Yes,Female,18-34,IDR 5-10 million,North Jakarta,2020-05-30,pcr
+Yes,Male,18-34,more than IDR 25 million,Central Jakarta,2020-05-30,pcr
+Yes,Male,50+,more than IDR 25 million,South Jakarta,2020-05-30,pcr
+No,Female,50+,more than IDR 25 million,Central Jakarta,2020-05-31,pcr
+No,Female,18-34,less than IDR 3 million,Central Jakarta,2020-05-31,pcr
+Yes,Male,18-34,IDR 10-25 million,West Jakarta,2020-05-31,pcr
+No,Female,31-50,IDR 3-5 million,North Jakarta,2020-05-31,pcr
+Yes,Male,31-50,IDR 3-5 million,Central Jakarta,2020-05-31,pcr
+No,Male,50+,IDR 5-10 million,South Jakarta,2020-05-31,pcr
+No,Female,50+,less than IDR 3 million,North Jakarta,2020-05-31,pcr
+Yes,Male,50+,more than IDR 25 million,West Jakarta,2020-05-31,pcr
+No,Male,31-50,more than IDR 25 million,East Jakarta,2020-05-31,pcr
+No,Female,50+,IDR 5-10 million,Central Jakarta,2020-05-31,pcr
+Yes,Female,50+,IDR 10-25 million,West Jakarta,2020-05-31,pcr
+Yes,Male,18-34,IDR 10-25 million,South Jakarta,2020-05-31,pcr
+No,Male,31-50,IDR 3-5 million,Central Jakarta,2020-05-31,pcr
+No,Male,18-34,less than IDR 3 million,East Jakarta,2020-05-31,pcr
+No,Female,31-50,less than IDR 3 million,North Jakarta,2020-05-31,pcr
+No,Female,18-34,IDR 3-5 million,West Jakarta,2020-05-31,pcr
+Yes,Male,50+,IDR 5-10 million,South Jakarta,2020-05-31,pcr
+No,Male,18-34,more than IDR 25 million,East Jakarta,2020-05-31,pcr
+No,Male,18-34,less than IDR 3 million,North Jakarta,2020-06-06,pcr
+Yes,Female,18-34,IDR 10-25 million,South Jakarta,2020-06-06,pcr
+No,Male,50+,more than IDR 25 million,North Jakarta,2020-06-06,pcr
+Yes,Female,50+,less than IDR 3 million,East Jakarta,2020-06-06,pcr
+Yes,Female,50+,IDR 5-10 million,East Jakarta,2020-06-06,pcr
+No,Male,31-50,IDR 3-5 million,East Jakarta,2020-06-06,pcr
+Yes,Female,31-50,IDR 10-25 million,West Jakarta,2020-06-06,pcr
+Yes,Male,50+,more than IDR 25 million,East Jakarta,2020-06-06,pcr
+No,Female,18-34,less than IDR 3 million,Central Jakarta,2020-06-06,pcr
+No,Female,18-34,IDR 3-5 million,West Jakarta,2020-06-06,pcr
+No,Female,31-50,IDR 5-10 million,West Jakarta,2020-06-06,pcr
+No,Male,50+,IDR 5-10 million,South Jakarta,2020-06-06,pcr
+No,Male,18-34,less than IDR 3 million,South Jakarta,2020-06-06,pcr
+Yes,Male,18-34,less than IDR 3 million,Central Jakarta,2020-06-06,pcr
+Yes,Female,31-50,more than IDR 25 million,West Jakarta,2020-06-06,pcr
+No,Male,50+,IDR 3-5 million,South Jakarta,2020-06-06,pcr
+Yes,Male,18-34,less than IDR 3 million,East Jakarta,2020-06-06,pcr
+No,Female,50+,less than IDR 3 million,North Jakarta,2020-06-06,pcr
+Yes,Male,31-50,IDR 5-10 million,West Jakarta,2020-06-06,pcr
+Yes,Male,18-34,IDR 3-5 million,North Jakarta,2020-06-13,pcr
+Yes,Male,31-50,more than IDR 25 million,West Jakarta,2020-06-13,pcr
+Yes,Female,31-50,IDR 3-5 million,Central Jakarta,2020-06-13,pcr
+No,Male,31-50,more than IDR 25 million,Central Jakarta,2020-06-13,pcr
+Yes,Male,31-50,IDR 10-25 million,North Jakarta,2020-06-13,pcr
+No,Female,50+,IDR 3-5 million,East Jakarta,2020-06-13,pcr
+No,Male,50+,IDR 5-10 million,East Jakarta,2020-06-13,pcr
+Yes,Male,50+,more than IDR 25 million,West Jakarta,2020-06-13,pcr
+No,Male,18-34,IDR 3-5 million,West Jakarta,2020-06-13,pcr
+Yes,Male,50+,IDR 3-5 million,East Jakarta,2020-06-13,pcr
+Yes,Female,31-50,less than IDR 3 million,South Jakarta,2020-06-13,pcr
+Yes,Male,18-34,IDR 10-25 million,North Jakarta,2020-06-13,pcr
+Yes,Male,50+,IDR 5-10 million,East Jakarta,2020-06-13,pcr
+No,Female,31-50,IDR 10-25 million,West Jakarta,2020-06-13,pcr
+Yes,Male,50+,more than IDR 25 million,South Jakarta,2020-06-13,pcr
+Yes,Male,18-34,IDR 5-10 million,East Jakarta,2020-06-13,pcr
+No,Male,18-34,less than IDR 3 million,West Jakarta,2020-06-13,pcr
+Yes,Male,18-34,less than IDR 3 million,West Jakarta,2020-06-14,pcr
+Yes,Female,31-50,less than IDR 3 million,West Jakarta,2020-06-14,pcr
+Yes,Male,31-50,IDR 10-25 million,South Jakarta,2020-06-14,pcr
+No,Female,50+,IDR 3-5 million,East Jakarta,2020-06-14,pcr
+No,Female,18-34,more than IDR 25 million,South Jakarta,2020-06-14,pcr
+Yes,Male,50+,more than IDR 25 million,West Jakarta,2020-06-14,pcr
+Yes,Female,18-34,IDR 5-10 million,North Jakarta,2020-06-14,pcr
+Yes,Female,18-34,more than IDR 25 million,South Jakarta,2020-06-14,pcr
+Yes,Female,31-50,less than IDR 3 million,East Jakarta,2020-06-14,pcr
+Yes,Male,50+,IDR 5-10 million,East Jakarta,2020-06-14,pcr
+Yes,Female,50+,more than IDR 25 million,South Jakarta,2020-06-14,pcr
+No,Male,31-50,less than IDR 3 million,West Jakarta,2020-06-15,pcr
+Yes,Female,31-50,more than IDR 25 million,East Jakarta,2020-06-15,pcr
+No,Male,18-34,IDR 10-25 million,West Jakarta,2020-06-15,pcr
+No,Male,31-50,more than IDR 25 million,West Jakarta,2020-06-15,pcr
+No,Male,31-50,IDR 10-25 million,East Jakarta,2020-06-15,pcr
+Yes,Male,50+,more than IDR 25 million,North Jakarta,2020-06-15,pcr
+Yes,Male,18-34,IDR 3-5 million,West Jakarta,2020-06-15,pcr
+No,Female,18-34,IDR 10-25 million,North Jakarta,2020-06-15,pcr
+No,Female,31-50,IDR 5-10 million,East Jakarta,2020-06-15,pcr
+No,Female,31-50,IDR 5-10 million,South Jakarta,2020-06-15,pcr
+No,Male,18-34,IDR 5-10 million,West Jakarta,2020-06-15,pcr
+Yes,Female,31-50,less than IDR 3 million,West Jakarta,2020-06-15,pcr
+Yes,Female,31-50,more than IDR 25 million,Central Jakarta,2020-06-15,pcr
+Yes,Female,50+,IDR 5-10 million,Central Jakarta,2020-06-15,pcr
+No,Male,31-50,IDR 5-10 million,North Jakarta,2020-06-15,pcr
+Yes,Male,18-34,more than IDR 25 million,North Jakarta,2020-06-15,pcr
+Yes,Male,18-34,less than IDR 3 million,West Jakarta,2020-06-15,pcr
+No,Female,18-34,IDR 5-10 million,East Jakarta,2020-06-15,pcr
+No,Male,50+,less than IDR 3 million,North Jakarta,2020-06-15,pcr
+Yes,Female,31-50,IDR 5-10 million,Central Jakarta,2020-06-15,pcr
+No,Female,50+,more than IDR 25 million,West Jakarta,2020-06-15,pcr
+Yes,Male,18-34,IDR 3-5 million,Central Jakarta,2020-06-16,pcr
+No,Male,31-50,less than IDR 3 million,West Jakarta,2020-06-16,pcr
+Yes,Male,50+,IDR 3-5 million,West Jakarta,2020-06-16,pcr
+Yes,Male,50+,less than IDR 3 million,East Jakarta,2020-06-16,pcr
+No,Male,18-34,IDR 5-10 million,South Jakarta,2020-06-16,pcr
+No,Male,50+,IDR 10-25 million,West Jakarta,2020-06-16,pcr
+No,Male,31-50,IDR 3-5 million,West Jakarta,2020-06-16,pcr
+No,Female,31-50,IDR 5-10 million,South Jakarta,2020-06-16,pcr
+Yes,Male,50+,less than IDR 3 million,North Jakarta,2020-06-16,pcr
+No,Female,31-50,IDR 3-5 million,Central Jakarta,2020-06-16,pcr
+Yes,Female,31-50,more than IDR 25 million,West Jakarta,2020-06-16,pcr
+Yes,Male,31-50,IDR 5-10 million,West Jakarta,2020-06-16,pcr
+Yes,Female,50+,IDR 10-25 million,North Jakarta,2020-06-16,pcr
+No,Male,18-34,IDR 5-10 million,West Jakarta,2020-06-16,pcr
+No,Male,18-34,IDR 5-10 million,Central Jakarta,2020-06-16,pcr
+No,Male,18-34,IDR 10-25 million,South Jakarta,2020-06-16,pcr
+Yes,Male,18-34,IDR 10-25 million,North Jakarta,2020-06-16,pcr
+No,Female,31-50,IDR 5-10 million,South Jakarta,2020-06-17,pcr
+No,Female,18-34,more than IDR 25 million,East Jakarta,2020-06-17,pcr
+No,Female,18-34,IDR 3-5 million,West Jakarta,2020-06-17,pcr
+Yes,Male,50+,less than IDR 3 million,North Jakarta,2020-06-17,pcr
+No,Male,31-50,more than IDR 25 million,West Jakarta,2020-06-17,pcr
+Yes,Female,50+,less than IDR 3 million,West Jakarta,2020-06-17,pcr
+No,Male,18-34,IDR 5-10 million,East Jakarta,2020-06-17,pcr
+No,Female,31-50,IDR 10-25 million,East Jakarta,2020-06-17,pcr
+Yes,Male,31-50,IDR 3-5 million,North Jakarta,2020-06-17,pcr
+No,Female,18-34,IDR 5-10 million,North Jakarta,2020-06-17,pcr
+Yes,Female,50+,IDR 5-10 million,North Jakarta,2020-06-17,pcr
+No,Female,31-50,IDR 3-5 million,North Jakarta,2020-06-17,pcr
+No,Male,31-50,IDR 3-5 million,East Jakarta,2020-06-18,pcr
+Yes,Female,18-34,IDR 5-10 million,West Jakarta,2020-06-18,pcr
+No,Male,18-34,more than IDR 25 million,East Jakarta,2020-06-18,pcr
+Yes,Female,31-50,IDR 10-25 million,South Jakarta,2020-06-18,pcr
+Yes,Female,50+,IDR 5-10 million,East Jakarta,2020-06-18,pcr
+No,Female,18-34,more than IDR 25 million,East Jakarta,2020-06-18,pcr
+No,Male,50+,more than IDR 25 million,East Jakarta,2020-06-18,pcr
+No,Female,18-34,IDR 5-10 million,North Jakarta,2020-06-18,pcr
+Yes,Female,18-34,less than IDR 3 million,West Jakarta,2020-06-18,pcr
+Yes,Female,50+,IDR 10-25 million,West Jakarta,2020-06-18,pcr
+Yes,Female,18-34,more than IDR 25 million,West Jakarta,2020-06-18,pcr
+Yes,Female,18-34,IDR 10-25 million,East Jakarta,2020-06-18,pcr
+Yes,Male,18-34,less than IDR 3 million,West Jakarta,2020-06-18,pcr
+No,Male,50+,IDR 5-10 million,South Jakarta,2020-06-18,pcr
+No,Female,18-34,IDR 5-10 million,North Jakarta,2020-06-19,pcr
+No,Male,31-50,IDR 3-5 million,Central Jakarta,2020-06-19,pcr
+No,Female,31-50,IDR 10-25 million,North Jakarta,2020-06-19,pcr
+Yes,Female,50+,IDR 5-10 million,West Jakarta,2020-06-19,pcr
+No,Male,31-50,IDR 3-5 million,East Jakarta,2020-06-19,pcr
+Yes,Male,18-34,IDR 10-25 million,North Jakarta,2020-06-19,pcr
+Yes,Male,31-50,IDR 3-5 million,South Jakarta,2020-06-19,pcr
+Yes,Male,50+,IDR 3-5 million,West Jakarta,2020-06-19,pcr
+No,Female,50+,more than IDR 25 million,North Jakarta,2020-06-19,pcr
+No,Female,50+,IDR 5-10 million,Central Jakarta,2020-06-19,pcr
+No,Female,31-50,more than IDR 25 million,Central Jakarta,2020-06-19,pcr
+Yes,Female,18-34,more than IDR 25 million,South Jakarta,2020-06-19,pcr
+Yes,Male,18-34,more than IDR 25 million,Central Jakarta,2020-06-19,pcr
+No,Female,50+,IDR 3-5 million,West Jakarta,2020-06-19,pcr
+Yes,Male,18-34,less than IDR 3 million,Central Jakarta,2020-06-19,pcr
+Yes,Male,18-34,IDR 10-25 million,South Jakarta,2020-06-20,pcr
+No,Female,50+,less than IDR 3 million,Central Jakarta,2020-06-20,pcr
+Yes,Female,18-34,more than IDR 25 million,Central Jakarta,2020-06-20,pcr
+No,Female,50+,IDR 5-10 million,North Jakarta,2020-06-20,pcr
+Yes,Female,50+,IDR 3-5 million,Central Jakarta,2020-06-20,pcr
+No,Male,31-50,IDR 5-10 million,South Jakarta,2020-06-20,pcr
+Yes,Female,31-50,IDR 5-10 million,East Jakarta,2020-06-20,pcr
+No,Female,31-50,less than IDR 3 million,East Jakarta,2020-06-20,pcr
+Yes,Male,18-34,IDR 5-10 million,North Jakarta,2020-06-20,pcr
+Yes,Female,31-50,more than IDR 25 million,West Jakarta,2020-06-20,pcr
+No,Male,50+,IDR 10-25 million,North Jakarta,2020-06-21,pcr
+Yes,Female,31-50,IDR 3-5 million,South Jakarta,2020-06-21,pcr
+Yes,Female,18-34,IDR 5-10 million,West Jakarta,2020-06-21,pcr
+No,Male,50+,IDR 5-10 million,Central Jakarta,2020-06-21,pcr
+No,Female,31-50,more than IDR 25 million,North Jakarta,2020-06-21,pcr
+No,Male,50+,more than IDR 25 million,Central Jakarta,2020-06-21,pcr
+Yes,Female,18-34,more than IDR 25 million,South Jakarta,2020-06-21,pcr
+No,Female,31-50,IDR 10-25 million,Central Jakarta,2020-06-21,pcr
+Yes,Male,31-50,less than IDR 3 million,West Jakarta,2020-06-21,pcr
+Yes,Male,18-34,IDR 5-10 million,East Jakarta,2020-06-21,pcr
+No,Male,18-34,more than IDR 25 million,West Jakarta,2020-06-21,pcr
+Yes,Female,50+,IDR 5-10 million,Central Jakarta,2020-06-21,pcr
+Yes,Female,18-34,more than IDR 25 million,West Jakarta,2020-06-21,pcr
+No,Female,31-50,more than IDR 25 million,Central Jakarta,2020-06-21,pcr
+Yes,Male,18-34,IDR 3-5 million,West Jakarta,2020-06-21,pcr
+Yes,Male,18-34,IDR 5-10 million,Central Jakarta,2020-06-22,pcr
+No,Female,31-50,IDR 10-25 million,East Jakarta,2020-06-22,pcr
+No,Male,50+,IDR 5-10 million,Central Jakarta,2020-06-22,pcr
+Yes,Male,18-34,less than IDR 3 million,West Jakarta,2020-06-22,pcr
+No,Female,18-34,IDR 5-10 million,East Jakarta,2020-06-22,pcr
+No,Male,31-50,less than IDR 3 million,North Jakarta,2020-06-22,pcr
+No,Male,50+,more than IDR 25 million,Central Jakarta,2020-06-22,pcr
+Yes,Female,31-50,IDR 3-5 million,South Jakarta,2020-06-22,pcr
+No,Female,31-50,less than IDR 3 million,East Jakarta,2020-06-22,pcr
+Yes,Female,31-50,more than IDR 25 million,West Jakarta,2020-06-22,pcr
+Yes,Female,31-50,less than IDR 3 million,North Jakarta,2020-06-22,pcr
+Yes,Female,50+,IDR 3-5 million,South Jakarta,2020-06-22,pcr
+Yes,Female,31-50,more than IDR 25 million,Central Jakarta,2020-06-22,pcr
+No,Male,31-50,IDR 3-5 million,East Jakarta,2020-06-22,pcr
+No,Female,31-50,IDR 5-10 million,West Jakarta,2020-06-22,pcr
+No,Male,50+,IDR 3-5 million,East Jakarta,2020-06-22,pcr
+No,Male,18-34,IDR 10-25 million,North Jakarta,2020-06-22,pcr
+No,Female,31-50,IDR 3-5 million,East Jakarta,2020-06-22,pcr
+No,Male,50+,IDR 5-10 million,South Jakarta,2020-06-23,pcr
+No,Male,50+,more than IDR 25 million,South Jakarta,2020-06-23,pcr
+No,Male,31-50,IDR 10-25 million,South Jakarta,2020-06-23,pcr
+No,Male,18-34,IDR 10-25 million,Central Jakarta,2020-06-23,pcr
+Yes,Male,18-34,less than IDR 3 million,South Jakarta,2020-06-23,pcr
+Yes,Female,50+,IDR 10-25 million,East Jakarta,2020-06-23,pcr
+No,Female,18-34,more than IDR 25 million,East Jakarta,2020-06-23,pcr
+Yes,Male,18-34,more than IDR 25 million,North Jakarta,2020-06-23,pcr
+No,Male,31-50,IDR 3-5 million,East Jakarta,2020-06-23,pcr
+Yes,Male,18-34,IDR 10-25 million,East Jakarta,2020-06-23,pcr
+Yes,Male,50+,IDR 3-5 million,North Jakarta,2020-06-23,pcr
+No,Male,31-50,less than IDR 3 million,North Jakarta,2020-06-23,pcr
+Yes,Female,50+,IDR 5-10 million,North Jakarta,2020-06-23,pcr
+Yes,Male,18-34,IDR 5-10 million,East Jakarta,2020-06-23,pcr
+Yes,Female,18-34,IDR 5-10 million,North Jakarta,2020-06-23,pcr
+No,Male,18-34,IDR 3-5 million,East Jakarta,2020-06-23,pcr
+Yes,Female,31-50,IDR 10-25 million,Central Jakarta,2020-06-23,pcr
+No,Male,50+,IDR 3-5 million,Central Jakarta,2020-06-23,pcr
+Yes,Female,18-34,more than IDR 25 million,North Jakarta,2020-06-23,pcr
+Yes,Male,31-50,IDR 5-10 million,North Jakarta,2020-06-23,pcr
+Yes,Male,50+,IDR 5-10 million,South Jakarta,2020-06-24,pcr
+Yes,Female,50+,IDR 5-10 million,Central Jakarta,2020-06-24,pcr
+No,Male,31-50,IDR 10-25 million,North Jakarta,2020-06-24,pcr
+Yes,Male,31-50,more than IDR 25 million,West Jakarta,2020-06-24,pcr
+No,Male,50+,more than IDR 25 million,North Jakarta,2020-06-24,pcr
+No,Male,31-50,IDR 3-5 million,South Jakarta,2020-06-24,pcr
+No,Male,31-50,IDR 5-10 million,West Jakarta,2020-06-24,pcr
+No,Female,31-50,IDR 3-5 million,North Jakarta,2020-06-24,pcr
+Yes,Male,31-50,IDR 3-5 million,North Jakarta,2020-06-24,pcr
+No,Male,50+,IDR 3-5 million,East Jakarta,2020-06-24,pcr
+No,Male,18-34,IDR 3-5 million,West Jakarta,2020-06-24,pcr
+Yes,Female,31-50,IDR 3-5 million,West Jakarta,2020-06-24,pcr
+Yes,Male,31-50,less than IDR 3 million,East Jakarta,2020-06-24,pcr
+No,Male,50+,IDR 5-10 million,Central Jakarta,2020-06-24,pcr
+No,Female,50+,IDR 10-25 million,Central Jakarta,2020-06-24,pcr
+No,Male,31-50,more than IDR 25 million,West Jakarta,2020-06-24,pcr
+No,Female,50+,IDR 3-5 million,East Jakarta,2020-06-24,pcr
+No,Male,18-34,IDR 5-10 million,West Jakarta,2020-06-24,pcr
+Yes,Female,50+,less than IDR 3 million,West Jakarta,2020-06-24,pcr
+Yes,Female,31-50,less than IDR 3 million,North Jakarta,2020-06-24,pcr
+No,Female,31-50,IDR 10-25 million,East Jakarta,2020-06-25,pcr
+No,Male,31-50,IDR 10-25 million,Central Jakarta,2020-06-25,pcr
+No,Male,31-50,IDR 5-10 million,North Jakarta,2020-06-25,pcr
+Yes,Male,18-34,less than IDR 3 million,North Jakarta,2020-06-25,pcr
+Yes,Male,18-34,IDR 5-10 million,West Jakarta,2020-06-25,pcr
+No,Female,50+,less than IDR 3 million,Central Jakarta,2020-06-25,pcr
+Yes,Male,50+,IDR 10-25 million,North Jakarta,2020-06-25,pcr
+Yes,Female,18-34,less than IDR 3 million,Central Jakarta,2020-06-25,pcr
+Yes,Female,18-34,IDR 10-25 million,Central Jakarta,2020-06-25,pcr
+No,Male,18-34,more than IDR 25 million,Central Jakarta,2020-06-25,pcr
+Yes,Female,31-50,less than IDR 3 million,South Jakarta,2020-06-25,pcr
+Yes,Female,31-50,IDR 3-5 million,North Jakarta,2020-06-25,pcr
+No,Female,31-50,IDR 3-5 million,North Jakarta,2020-06-25,pcr
+No,Female,31-50,less than IDR 3 million,Central Jakarta,2020-06-25,pcr
+Yes,Male,50+,IDR 10-25 million,West Jakarta,2020-06-25,pcr
+Yes,Male,50+,IDR 3-5 million,South Jakarta,2020-06-25,pcr
+Yes,Male,31-50,IDR 3-5 million,South Jakarta,2020-06-25,pcr
+Yes,Male,31-50,less than IDR 3 million,North Jakarta,2020-06-25,pcr
+Yes,Male,31-50,IDR 10-25 million,North Jakarta,2020-07-05,pcr
+No,Male,50+,less than IDR 3 million,North Jakarta,2020-07-05,pcr
+No,Male,31-50,less than IDR 3 million,North Jakarta,2020-07-05,pcr
+No,Male,18-34,IDR 5-10 million,North Jakarta,2020-07-05,pcr
+Yes,Male,31-50,IDR 5-10 million,North Jakarta,2020-07-05,pcr
+No,Female,31-50,IDR 5-10 million,Central Jakarta,2020-07-05,pcr
+Yes,Male,18-34,IDR 10-25 million,West Jakarta,2020-07-05,pcr
+No,Female,50+,less than IDR 3 million,North Jakarta,2020-07-05,pcr
+No,Male,31-50,IDR 10-25 million,South Jakarta,2020-07-05,pcr
+Yes,Female,18-34,IDR 10-25 million,North Jakarta,2020-07-05,pcr
+Yes,Female,50+,more than IDR 25 million,Central Jakarta,2020-07-06,pcr
+Yes,Female,50+,IDR 5-10 million,North Jakarta,2020-07-06,pcr
+Yes,Male,18-34,more than IDR 25 million,South Jakarta,2020-07-06,pcr
+No,Male,50+,IDR 5-10 million,South Jakarta,2020-07-06,pcr
+No,Male,50+,more than IDR 25 million,West Jakarta,2020-07-06,pcr
+Yes,Male,18-34,IDR 3-5 million,South Jakarta,2020-07-06,pcr
+No,Male,50+,more than IDR 25 million,Central Jakarta,2020-07-06,pcr
+Yes,Female,18-34,less than IDR 3 million,North Jakarta,2020-07-06,pcr
+No,Female,50+,more than IDR 25 million,West Jakarta,2020-07-06,pcr
+Yes,Male,18-34,less than IDR 3 million,Central Jakarta,2020-07-06,pcr
+Yes,Female,50+,IDR 3-5 million,East Jakarta,2020-07-06,pcr
+Yes,Female,31-50,IDR 5-10 million,Central Jakarta,2020-07-06,pcr
+No,Female,31-50,more than IDR 25 million,South Jakarta,2020-07-06,pcr
+No,Female,31-50,IDR 5-10 million,Central Jakarta,2020-08-05,pcr
+Yes,Female,31-50,IDR 10-25 million,Central Jakarta,2020-08-05,pcr
+No,Female,18-34,IDR 10-25 million,West Jakarta,2020-08-05,pcr
+No,Female,31-50,IDR 5-10 million,West Jakarta,2020-08-05,pcr
+Yes,Female,18-34,IDR 10-25 million,West Jakarta,2020-08-05,pcr
+Yes,Female,50+,IDR 5-10 million,Central Jakarta,2020-08-05,pcr
+Yes,Male,18-34,IDR 3-5 million,West Jakarta,2020-08-05,pcr
+No,Female,31-50,IDR 5-10 million,North Jakarta,2020-08-05,pcr
+Yes,Male,18-34,more than IDR 25 million,Central Jakarta,2020-08-05,pcr
+No,Male,31-50,IDR 10-25 million,South Jakarta,2020-08-05,pcr
+No,Female,50+,IDR 5-10 million,West Jakarta,2020-08-05,pcr
+Yes,Female,31-50,less than IDR 3 million,West Jakarta,2020-08-05,pcr
+Yes,Male,31-50,IDR 10-25 million,Central Jakarta,2020-08-05,pcr
+No,Female,31-50,IDR 10-25 million,West Jakarta,2020-08-05,pcr
+No,Female,18-34,IDR 5-10 million,Central Jakarta,2020-08-05,pcr
+Yes,Male,31-50,less than IDR 3 million,North Jakarta,2020-08-05,pcr
+No,Female,18-34,less than IDR 3 million,Central Jakarta,2020-08-05,pcr
+Yes,Male,18-34,less than IDR 3 million,East Jakarta,2020-08-06,pcr
+Yes,Female,18-34,IDR 3-5 million,Central Jakarta,2020-08-06,pcr
+No,Male,18-34,IDR 3-5 million,South Jakarta,2020-08-06,pcr
+Yes,Female,18-34,IDR 10-25 million,South Jakarta,2020-08-06,pcr
+Yes,Male,50+,less than IDR 3 million,East Jakarta,2020-08-06,pcr
+No,Female,31-50,IDR 3-5 million,Central Jakarta,2020-08-06,pcr
+No,Female,18-34,IDR 3-5 million,Central Jakarta,2020-08-06,pcr
+No,Male,31-50,more than IDR 25 million,South Jakarta,2020-08-06,pcr
+No,Male,18-34,IDR 10-25 million,North Jakarta,2020-08-06,pcr
+No,Male,50+,less than IDR 3 million,North Jakarta,2020-08-06,pcr
+No,Male,50+,less than IDR 3 million,East Jakarta,2020-08-06,pcr
+Yes,Female,31-50,more than IDR 25 million,West Jakarta,2020-08-06,pcr
+Yes,Female,18-34,IDR 3-5 million,South Jakarta,2020-08-06,pcr
+Yes,Female,18-34,IDR 5-10 million,Central Jakarta,2020-08-06,pcr
+No,Female,31-50,more than IDR 25 million,Central Jakarta,2020-08-06,pcr
+Yes,Female,50+,more than IDR 25 million,West Jakarta,2020-08-06,pcr
+Yes,Female,50+,less than IDR 3 million,East Jakarta,2020-08-06,pcr
+Yes,Female,50+,IDR 10-25 million,East Jakarta,2020-09-05,pcr
+Yes,Female,18-34,IDR 3-5 million,East Jakarta,2020-09-05,pcr
+Yes,Female,31-50,less than IDR 3 million,North Jakarta,2020-09-05,pcr
+Yes,Male,18-34,IDR 10-25 million,North Jakarta,2020-09-05,pcr
+Yes,Male,18-34,IDR 10-25 million,East Jakarta,2020-09-05,pcr
+No,Male,50+,IDR 3-5 million,West Jakarta,2020-09-05,pcr
+No,Female,18-34,less than IDR 3 million,Central Jakarta,2020-09-05,pcr
+Yes,Male,31-50,less than IDR 3 million,South Jakarta,2020-09-05,pcr
+No,Female,18-34,IDR 10-25 million,Central Jakarta,2020-09-05,pcr
+Yes,Male,31-50,more than IDR 25 million,Central Jakarta,2020-09-05,pcr
+No,Male,31-50,less than IDR 3 million,South Jakarta,2020-09-05,pcr
+Yes,Female,31-50,IDR 3-5 million,South Jakarta,2020-09-05,pcr
+Yes,Female,18-34,IDR 3-5 million,North Jakarta,2020-09-05,pcr
+Yes,Male,50+,less than IDR 3 million,West Jakarta,2020-09-05,pcr
+Yes,Female,31-50,IDR 5-10 million,East Jakarta,2020-09-05,pcr
+No,Female,31-50,IDR 3-5 million,Central Jakarta,2020-09-05,pcr
+No,Male,31-50,more than IDR 25 million,Central Jakarta,2020-09-05,pcr
+No,Female,50+,IDR 5-10 million,North Jakarta,2020-09-05,pcr
+No,Female,50+,IDR 5-10 million,West Jakarta,2020-09-06,pcr
+Yes,Male,18-34,IDR 3-5 million,Central Jakarta,2020-09-06,pcr
+Yes,Male,31-50,IDR 5-10 million,West Jakarta,2020-09-06,pcr
+No,Male,18-34,more than IDR 25 million,Central Jakarta,2020-09-06,pcr
+No,Male,18-34,IDR 3-5 million,South Jakarta,2020-09-06,pcr
+No,Female,18-34,less than IDR 3 million,Central Jakarta,2020-09-06,pcr
+Yes,Male,31-50,more than IDR 25 million,East Jakarta,2020-09-06,pcr
+Yes,Male,31-50,more than IDR 25 million,North Jakarta,2020-09-06,pcr
+Yes,Male,50+,IDR 10-25 million,South Jakarta,2020-09-06,pcr
+No,Female,18-34,more than IDR 25 million,Central Jakarta,2020-09-06,pcr
+Yes,Male,50+,IDR 5-10 million,East Jakarta,2020-09-06,pcr
+Yes,Male,18-34,IDR 3-5 million,South Jakarta,2020-09-06,pcr
+No,Male,31-50,less than IDR 3 million,South Jakarta,2020-09-06,pcr
+No,Male,31-50,more than IDR 25 million,South Jakarta,2020-09-06,pcr
+No,Female,31-50,less than IDR 3 million,Central Jakarta,2020-09-06,pcr
+Yes,Female,18-34,IDR 10-25 million,North Jakarta,2020-09-06,pcr
+Yes,Female,18-34,IDR 5-10 million,West Jakarta,2020-09-06,pcr
+Yes,Female,18-34,IDR 3-5 million,North Jakarta,2020-09-06,pcr
+Yes,Female,31-50,IDR 5-10 million,South Jakarta,2020-09-06,pcr
+No,Male,31-50,IDR 10-25 million,East Jakarta,2020-09-06,pcr
+Yes,Female,50+,more than IDR 25 million,North Jakarta,2020-10-05,pcr
+No,Female,18-34,IDR 3-5 million,East Jakarta,2020-10-05,pcr
+Yes,Male,31-50,less than IDR 3 million,North Jakarta,2020-10-05,pcr
+No,Female,50+,less than IDR 3 million,North Jakarta,2020-10-05,pcr
+No,Male,50+,IDR 3-5 million,East Jakarta,2020-10-05,pcr
+No,Male,31-50,IDR 10-25 million,South Jakarta,2020-10-05,pcr
+Yes,Male,31-50,IDR 10-25 million,East Jakarta,2020-10-05,pcr
+Yes,Male,18-34,IDR 3-5 million,Central Jakarta,2020-10-05,pcr
+Yes,Male,18-34,IDR 5-10 million,South Jakarta,2020-10-05,pcr
+Yes,Female,50+,IDR 3-5 million,West Jakarta,2020-10-05,pcr
+Yes,Female,18-34,more than IDR 25 million,West Jakarta,2020-10-05,pcr
+Yes,Female,18-34,less than IDR 3 million,Central Jakarta,2020-10-05,pcr
+Yes,Female,31-50,IDR 10-25 million,East Jakarta,2020-10-06,pcr
+No,Male,31-50,IDR 5-10 million,West Jakarta,2020-10-06,pcr
+No,Female,18-34,IDR 10-25 million,North Jakarta,2020-10-06,pcr
+No,Female,31-50,IDR 3-5 million,Central Jakarta,2020-10-06,pcr
+Yes,Male,50+,more than IDR 25 million,East Jakarta,2020-10-06,pcr
+No,Female,50+,IDR 10-25 million,Central Jakarta,2020-10-06,pcr
+No,Female,50+,less than IDR 3 million,South Jakarta,2020-10-06,pcr
+Yes,Male,50+,more than IDR 25 million,West Jakarta,2020-10-06,pcr
+Yes,Male,50+,IDR 5-10 million,West Jakarta,2020-10-06,pcr
+Yes,Male,50+,IDR 10-25 million,Central Jakarta,2020-10-06,pcr
+Yes,Male,18-34,less than IDR 3 million,North Jakarta,2020-10-06,pcr
+Yes,Male,31-50,IDR 10-25 million,North Jakarta,2020-10-06,pcr
+No,Female,18-34,IDR 3-5 million,North Jakarta,2020-10-06,pcr
+Yes,Female,18-34,more than IDR 25 million,South Jakarta,2020-11-05,pcr
+Yes,Female,50+,less than IDR 3 million,South Jakarta,2020-11-05,pcr
+Yes,Male,18-34,IDR 5-10 million,North Jakarta,2020-11-05,pcr
+No,Male,18-34,more than IDR 25 million,Central Jakarta,2020-11-05,pcr
+No,Male,50+,more than IDR 25 million,North Jakarta,2020-11-05,pcr
+No,Female,50+,less than IDR 3 million,Central Jakarta,2020-11-05,pcr
+Yes,Male,50+,IDR 3-5 million,West Jakarta,2020-11-05,pcr
+No,Male,50+,more than IDR 25 million,West Jakarta,2020-11-05,pcr
+No,Male,31-50,IDR 3-5 million,South Jakarta,2020-11-05,pcr
+Yes,Female,50+,IDR 3-5 million,South Jakarta,2020-11-05,pcr
+No,Male,31-50,IDR 3-5 million,Central Jakarta,2020-11-05,pcr
+Yes,Male,18-34,IDR 3-5 million,North Jakarta,2020-11-05,pcr
+Yes,Female,50+,IDR 10-25 million,South Jakarta,2020-11-05,pcr
+No,Female,18-34,more than IDR 25 million,East Jakarta,2020-11-05,pcr
+No,Male,18-34,IDR 10-25 million,North Jakarta,2020-11-05,pcr
+No,Male,18-34,IDR 5-10 million,East Jakarta,2020-11-05,pcr
+No,Female,18-34,IDR 5-10 million,Central Jakarta,2020-11-05,pcr
+Yes,Male,50+,IDR 10-25 million,South Jakarta,2020-11-05,pcr
+Yes,Female,18-34,less than IDR 3 million,South Jakarta,2020-11-05,pcr
+No,Female,18-34,IDR 3-5 million,East Jakarta,2020-11-05,pcr
+No,Female,50+,more than IDR 25 million,East Jakarta,2020-11-05,pcr
+No,Male,50+,IDR 3-5 million,East Jakarta,2020-11-06,pcr
+No,Male,18-34,IDR 3-5 million,North Jakarta,2020-11-06,pcr
+No,Female,50+,IDR 3-5 million,North Jakarta,2020-11-06,pcr
+Yes,Male,18-34,less than IDR 3 million,East Jakarta,2020-11-06,pcr
+Yes,Male,50+,IDR 5-10 million,Central Jakarta,2020-11-06,pcr
+Yes,Female,18-34,IDR 3-5 million,Central Jakarta,2020-11-06,pcr
+Yes,Male,50+,IDR 5-10 million,West Jakarta,2020-11-06,pcr
+No,Female,18-34,IDR 3-5 million,West Jakarta,2020-11-06,pcr
+Yes,Male,18-34,less than IDR 3 million,Central Jakarta,2020-11-06,pcr
+Yes,Male,18-34,less than IDR 3 million,North Jakarta,2020-11-06,pcr
+No,Male,50+,IDR 5-10 million,North Jakarta,2020-11-06,pcr
+Yes,Female,18-34,IDR 5-10 million,Central Jakarta,2020-11-06,pcr
+Yes,Female,18-34,less than IDR 3 million,West Jakarta,2020-12-05,pcr
+Yes,Male,31-50,IDR 3-5 million,North Jakarta,2020-12-05,pcr
+Yes,Female,31-50,more than IDR 25 million,South Jakarta,2020-12-05,pcr
+Yes,Female,18-34,IDR 10-25 million,Central Jakarta,2020-12-05,pcr
+No,Male,31-50,more than IDR 25 million,South Jakarta,2020-12-05,pcr
+No,Male,50+,more than IDR 25 million,West Jakarta,2020-12-05,pcr
+No,Male,31-50,IDR 3-5 million,South Jakarta,2020-12-05,pcr
+Yes,Male,50+,IDR 10-25 million,East Jakarta,2020-12-05,pcr
+No,Male,18-34,IDR 5-10 million,North Jakarta,2020-12-05,pcr
+No,Female,50+,IDR 10-25 million,South Jakarta,2020-12-05,pcr
+No,Female,50+,IDR 3-5 million,South Jakarta,2020-12-05,pcr
+No,Male,18-34,IDR 5-10 million,West Jakarta,2020-12-05,pcr
+No,Female,31-50,IDR 3-5 million,West Jakarta,2020-12-05,pcr
+No,Female,31-50,more than IDR 25 million,North Jakarta,2020-12-05,pcr
+Yes,Female,31-50,less than IDR 3 million,Central Jakarta,2020-12-05,pcr
+Yes,Male,31-50,IDR 5-10 million,North Jakarta,2020-12-05,pcr
+Yes,Female,50+,IDR 5-10 million,Central Jakarta,2020-12-05,pcr
+No,Male,18-34,IDR 10-25 million,Central Jakarta,2020-12-05,pcr
+No,Female,50+,IDR 5-10 million,West Jakarta,2020-12-05,pcr
+No,Male,31-50,more than IDR 25 million,West Jakarta,2020-12-05,pcr
+No,Female,50+,IDR 5-10 million,South Jakarta,2020-12-05,pcr
+Yes,Male,50+,IDR 5-10 million,West Jakarta,2020-12-06,pcr
+Yes,Male,50+,IDR 3-5 million,North Jakarta,2020-12-06,pcr
+Yes,Female,18-34,IDR 10-25 million,West Jakarta,2020-12-06,pcr
+Yes,Male,31-50,less than IDR 3 million,East Jakarta,2020-12-06,pcr
+Yes,Male,18-34,less than IDR 3 million,South Jakarta,2020-12-06,pcr
+Yes,Male,18-34,IDR 10-25 million,Central Jakarta,2020-12-06,pcr
+Yes,Female,31-50,IDR 10-25 million,South Jakarta,2020-12-06,pcr
+No,Male,50+,IDR 10-25 million,Central Jakarta,2020-12-06,pcr
+No,Female,31-50,IDR 10-25 million,South Jakarta,2020-12-06,pcr
+No,Male,31-50,IDR 10-25 million,North Jakarta,2020-12-06,pcr
+No,Male,18-34,IDR 5-10 million,North Jakarta,2020-12-06,pcr
+No,Male,18-34,IDR 3-5 million,North Jakarta,2020-12-06,pcr
+No,Male,50+,less than IDR 3 million,East Jakarta,2020-12-06,pcr
+No,Female,31-50,more than IDR 25 million,South Jakarta,2020-12-06,pcr
